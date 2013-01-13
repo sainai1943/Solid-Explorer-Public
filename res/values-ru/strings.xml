@@ -5,231 +5,231 @@
     
     
     <!-- bottom toolbar -->
-    <string name="New">New</string>
-    <string name="Jump">Jump</string>
-    <string name="Filter">Filter</string>
-    <string name="Menu">Menu</string>
-    <string name="Actions">Actions</string>
+    <string name="New">Создать</string>
+    <string name="Jump">Перейти</string>
+    <string name="Filter">Фильтр</string>
+    <string name="Menu">Меню</string>
+    <string name="Actions">Действия</string>
     
     <!-- "New" popup -->
-    <string name="New_folder">Folder</string>
-    <string name="New_file">File</string>
-    <string name="New_FTP_connection">FTP connection</string>
-    <string name="New_SFTP_connection">SFTP connection</string>
-    <string name="New_SMB_connection">SMB connection</string>
-    <string name="New_cloud_connection">Cloud connection</string>
+    <string name="New_folder">Папка</string>
+    <string name="New_file">Файл</string>
+    <string name="New_FTP_connection">FTP соединение</string>
+    <string name="New_SFTP_connection">SFTP соединение</string>
+    <string name="New_SMB_connection">SMB соединение</string>
+    <string name="New_cloud_connection">Облачное соединение</string>
     
     <!-- "Actions" popup -->
     
-    <string name="Copy">Copy</string>
-    <string name="Cut">Cut</string>
-    <string name="Paste">Paste</string>
-    <string name="Delete">Delete</string>
-    <string name="Properties">Properties</string>
-    <string name="Select_all">Select all</string>
-    <string name="Select">Select</string>
+    <string name="Copy">Копировать</string>
+    <string name="Cut">Вырезать</string>
+    <string name="Paste">Вставить</string>
+    <string name="Delete">Удалить</string>
+    <string name="Properties">Свойства</string>
+    <string name="Select_all">Выбрать всё</string>
+    <string name="Select">Выбрать</string>
     
     <!-- "Jump" popup -->
     
-    <string name="Device">Device</string>
-    <string name="Photos">Photos</string>
-    <string name="Downloads">Downloads</string>
-    <string name="Network">Network</string>
-    <string name="Bookmarks">Bookmarks</string>
-    <string name="No_bookmarks">No bookmarks</string>
+    <string name="Device">Устройство</string>
+    <string name="Photos">Фотографии</string>
+    <string name="Downloads">Загрузки</string>
+    <string name="Network">Сеть</string>
+    <string name="Bookmarks">Закладки</string>
+    <string name="No_bookmarks">Нет закладок</string>
     
     <!-- "Menu" popup -->
-    <string name="View">View</string>
-    <string name="Sort">Sort</string>
-    <string name="Search">Search</string>
-    <string name="Operations">Operations</string>
-    <string name="Manage_bookmarks">Manage bookmarks</string>
-    <string name="File_sharing">File sharing</string>
-    <string name="Settings">Settings</string>
-    <string name="Exit">Exit</string>
+    <string name="View">Вид</string>
+    <string name="Sort">Сортировка</string>
+    <string name="Search">Поиск</string>
+    <string name="Operations">Операции</string>
+    <string name="Manage_bookmarks">Управление закладками</string>
+    <string name="File_sharing">Отправить</string>
+    <string name="Settings">Настройки</string>
+    <string name="Exit">Выход</string>
     
     <!-- "Network" popup -->
-    <string name="Cloud_storage">Cloud storage</string>
+    <string name="Cloud_storage">Облачное хранилище</string>
     
     <!-- "Device" popup -->
-     <string name="System_root">System root</string>
-    <string name="SD_card">SD card</string>
-    <string name="Internal_memory">Internal memory</string>
-    <string name="USB_drive_x">USB drive %x</string>
+     <string name="System_root">Корневая система</string>
+    <string name="SD_card">SD-Карта</string>
+    <string name="Internal_memory">Внутренняя память</string>
+    <string name="USB_drive_x">USB Диск %x</string>
     
     <!-- "View" popup -->
-    <string name="View_mode">View mode</string>
-    <string name="List">List</string>
-    <string name="Detailed_list">Detailed list</string>
-    <string name="Grid">Grid</string>
-    <string name="Detailed_grid">Detailed grid</string>
+    <string name="View_mode">Режим просмотра</string>
+    <string name="List">Список</string>
+    <string name="Detailed_list">Подробный список</string>
+    <string name="Grid">Сетка</string>
+    <string name="Detailed_grid">Подробная сетка</string>
     
     <!-- "Sort" popup -->
-    <string name="Sort_files_by">Sort files by</string>
-    <string name="File_name">File name</string>
-    <string name="File_size">File size</string>
-    <string name="File_type">File type</string>
-    <string name="Modified_date">Modified date</string>
-    <string name="Ascending">Ascending</string>
-    <string name="Descending">Descending</string>
-    <string name="In_order">In order</string>
+    <string name="Sort_files_by">Сортировка файлов</string>
+    <string name="File_name">По имени</string>
+    <string name="File_size">По размеру</string>
+    <string name="File_type">По типу</string>
+    <string name="Modified_date">По дате изменения<</string>
+    <string name="Ascending">По возрастанию</string>
+    <string name="Descending">По убыванию</string>
+    <string name="In_order">Порядок сортировки</string>
     
     <!-- Browser switch popup -->
-    <string name="Active_browser">Active browser</string>
-    <string name="Close_all">Close all</string>
-    <string name="In_background">In background</string>
+    <string name="Active_browser">Часто просматриваемые</string>
+    <string name="Close_all">Закрыть всё</string>
+    <string name="In_background">В фоне</string>
     
     
     
     <!-- Context menu -->
-    <string name="Open_with">Open with...</string>
-    <string name="Open_in_bg">Open beside</string>
-    <string name="Send">Send</string>
-    <string name="Bookmark">Bookmark</string>
-    <string name="Rename">Rename</string>
-    <string name="Extract">Extract</string>
-    <string name="Extract_to">Extract to</string>
-    <string name="Archive">Archive</string>
-    <string name="Paste_to_x">Paste to \&quot;%\&quot;</string>
+    <string name="Open_with">Открыть с помощью..</string>
+    <string name="Open_in_bg">Открыть в фоне</string>
+    <string name="Send">Отправить</string>
+    <string name="Bookmark">Закладка</string>
+    <string name="Rename">Переименоватьe</string>
+    <string name="Extract">Извлечь</string>
+    <string name="Extract_to">Извлечь в</string>
+    <string name="Archive">Архивировать</string>
+    <string name="Paste_to_x">Вставить в \&quot;%\&quot;</string>
     
     
     <!-- Dialogs -->
     <string name="OK">OK</string>
-    <string name="Cancel">Cancel</string>
-    <string name="Yes">Yes</string>
-    <string name="No">No</string>
+    <string name="Cancel">Отмена</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
     
             <!-- New folder/file dialog -->
-	    <string name="Enter_the_name">Enter the name</string>
+	    <string name="Enter_the_name">Введите имя</string>
 	    
 	    <!-- New connection Dialog -->
-	    <string name="Display_name">Display name</string>
-	    <string name="May_be_empty">May be empty</string>
-    	<string name="Remote_path">Remote path</string>
-    	<string name="Port">Port</string>
-    	<string name="User_name">User name</string>
-    	<string name="Password">Password</string>
-    	<string name="Repeat_the_password">Confirm password</string>
-    	<string name="Authentication_method">Authentication method</string>
-    	<string name="Server">Server</string>
-    	<string name="Connection_type">Connection type</string>
-    	<string name="Scan">Scan</string>
-    	<string name="Computer_name_or_IP_adress">Computer name or IP address</string>
-    	<string name="Looking_for_computers">Looking for computers</string>
-    	<string name="Share">SMB share</string>
+	    <string name="Display_name">Отображать имя</string>
+	    <string name="May_be_empty">Возможно пустой</string>
+    	<string name="Remote_path">Удаленный путь</string>
+    	<string name="Port">Порт</string>
+    	<string name="User_name">Имя пользователя</string>
+    	<string name="Password">Пароль</string>
+    	<string name="Repeat_the_password">Повторить пароль</string>
+    	<string name="Authentication_method">Метод аутентификации</string>
+    	<string name="Server">Сервер</string>
+    	<string name="Connection_type">Тип подключения</string>
+    	<string name="Scan">Сканировать</string>
+    	<string name="Computer_name_or_IP_adress">Имя компьютера или IP-адрес</string>
+    	<string name="Looking_for_computers">Обзор компьютеров</string>
+    	<string name="Share">Отправить</string>
     	
     		<!-- Auth methods -->
-    		<string name="Ask_for_password_each_time">Ask for a password each time</string>
-        	<string name="Store_encrypted_password">Store encrypted password</string>
-        	<string name="No_password_required">No password required</string>
-        	<string name="Anonymous">Anonymous</string>
-        	<string name="Log_in_as_a_guest">Log in as a guest</string>
+    		<string name="Ask_for_password_each_time">Спрашивать каждый раз</string>
+        	<string name="Store_encrypted_password">Хранить зашифрованный пароль</string>
+        	<string name="No_password_required">Пароль не требуется</string>
+        	<string name="Anonymous">Анонимный</string>
+        	<string name="Log_in_as_a_guest">Гостевой вход</string>
         	
         	<!-- FTP types -->
-        	<string name="FTP_no_encryption">FTP (no encryption)</string>
-        	<string name="FTPS_implicit_encryption">FTPS (implicit encryption)</string>
-        	<string name="FTPES_explicit_encryption">FTPES (explicit encryption)</string>
+        	<string name="FTP_no_encryption">FTP (без шифрования)</string>
+        	<string name="FTPS_implicit_encryption">FTPS (слабое шифрование)</string>
+        	<string name="FTPES_explicit_encryption">FTPES (сложное шифрование)</string>
         
     <!-- Search activity -->	
-    <string name="Manual_search">Manual search</string>
-    <string name="Results_from">Results from:</string>
-    <string name="No_results">No results</string>
-    <string name="Matches">Matches</string>
-    <string name="Selected">Selected</string>
-    <string name="Match_mode">Match mode</string>
-    <string name="Match_start">Match start</string>
-    <string name="Match_any">Match any</string>
-    <string name="Match_end">Match end</string>
+    <string name="Manual_search">Ручной поиск</string>
+    <string name="Results_from">Результат:</string>
+    <string name="No_results">Нет результатов</string>
+    <string name="Matches">Совпадения</string>
+    <string name="Selected">Выбранные</string>
+    <string name="Match_mode">Режим совпадений</string>
+    <string name="Match_start">Сначала слова</string>
+    <string name="Match_any">Любое совпадение</string>
+    <string name="Match_end">Конец слова</string>
     
     <!-- Operations activity -->
-    <string name="History_is_empty">History is empty</string>
-    <string name="Current_operation">Current operation</string>
-    <string name="No_pending_operation">No pending operations</string>
-    <string name="History">History</string>
-    <string name="Count">Count</string>
-    <string name="Date">Date</string>
-    <string name="Source">Source</string>
-    <string name="Destination">Destination</string>
+    <string name="History_is_empty">История пуста</string>
+    <string name="Current_operation">Текущая операция</string>
+    <string name="No_pending_operation">Нет операций</string>
+    <string name="History">История</string>
+    <string name="Count">Количество</string>
+    <string name="Date">Дата</string>
+    <string name="Source">Источник</string>
+    <string name="Destination">Назначение</string>
     
     	<!-- Operation info -->
-    	<string name="Operation">Operation</string>
-    	<string name="From">From</string>
-    	<string name="To">To</string>
-    	<string name="Size">Size</string>
-    	<string name="Speed">Speed</string>
+    	<string name="Operation">Операция</string>
+    	<string name="From">От</string>
+    	<string name="To">К</string>
+    	<string name="Size">Размер</string>
+    	<string name="Speed">Скорость</string>
     	<string name="ETA">ETA</string>
-    	<string name="NA">N/A</string>
-    	<string name="Current">Current</string>
+    	<string name="NA">Н/Д</string>
+    	<string name="Current">Текущее</string>
     	
     	<!-- Operation descriptions -->
-    	<string name="File_copy">File copy</string>
-    	<string name="File_move">File move</string>
-    	<string name="File_delete">File delete</string>
-    	<string name="Temporary_download">Temporary download</string>
-   	 	<string name="Creating_archive">Creating % archive</string>
-    	<string name="Extracting_archive">Extracting % archive</string>
-    	<string name="X_has_been_completed">% has been completed.</string>
-    	<string name="X_has_failed">% has failed.</string>
-    	<string name="Tap_to_show_details">Tap to show details</string>
-    	<string name="Pending_cancel_request">Pending cancel request</string>
-    	<string name="File_operation">File operation</string>
+    	<string name="File_copy">Копирование</string>
+    	<string name="File_move">Перемещение</string>
+    	<string name="File_delete">Удаление</string>
+    	<string name="Temporary_download">Временные загрузки</string>
+   	<string name="Creating_archive">Создание % архива</string>
+    	<string name="Extracting_archive">Извлечение % архива</string>
+    	<string name="X_has_been_completed">% было завершено.</string>
+    	<string name="X_has_failed">% не удалось.</string>
+    	<string name="Tap_to_show_details">Нажмите для подробностей</string>
+    	<string name="Pending_cancel_request">В ожидании запроса отмены</string>
+    	<string name="File_operation">Файловые операции</string>
     
     <!-- Bookmark manager -->
-    <string name="Bookmark_manager">Bookmark manager</string>
-    <string name="Edit">Edit</string>
-    <string name="Disconnect">Disconnect</string>
-    <string name="Delete_all">Delete all</string>
-    <string name="Wifi_toggle">Toggle Wi-Fi</string>
-    <string name="Wifi_settings">Wi-Fi settings</string>
-    <string name="Disconnect_all">Disconnect all</string>
-    <string name="Connected">Connected</string> 
-    <string name="Not_connected">Not connected</string>
-    <string name="on">on</string>
-    <string name="Local_bookmarks">Local bookmarks</string>
-    <string name="FTP_bookmarks">FTP bookmarks</string>
-    <string name="SFTP_bookmarks">SFTP bookmarks</string>
-    <string name="SMB_bookmarks">SMB bookmarks</string>
-    <string name="Cloud_bookmarks">Cloud bookmarks</string>
-    <string name="Edit_bookmark">Edit bookmark</string>
-    <string name="Name">Name</string>
-    <string name="Path">Path</string>
+    <string name="Bookmark_manager">Управление закладками</string>
+    <string name="Edit">Изменить</string>
+    <string name="Disconnect">Разъеденить</string>
+    <string name="Delete_all">Удалить всё</string>
+    <string name="Wifi_toggle">Переключить WiFi</string>
+    <string name="Wifi_settings">Настройки Wi-Fi</string>
+    <string name="Disconnect_all">Разъеденить всё</string>
+    <string name="Connected">Соединено</string> 
+    <string name="Not_connected">Не соединено</string>
+    <string name="on">включено</string>
+    <string name="Local_bookmarks">Локальные закладки</string>
+    <string name="FTP_bookmarks">FTP закладки</string>
+    <string name="SFTP_bookmarks">SFTP закладки</string>
+    <string name="SMB_bookmarks">SMB закладки</string>
+    <string name="Cloud_bookmarks">Облачные закладки</string>
+    <string name="Edit_bookmark">Изменить закладки</string>
+    <string name="Name">Имя</string>
+    <string name="Path">Путь</string>
     
     <!-- Dir picker -->
-    <string name="Pick_a_directory">Choose a directory</string>
+    <string name="Pick_a_directory">Выбрать дерикторию</string>
     
     <!-- Cloud storage dialog -->
-    <string name="Cloud_storage_services">Cloud storage services</string>
-    <string name="Cloud_services_description">Choose your cloud storage service</string>
+    <string name="Cloud_storage_services">Сервисы облачного хранения</string>
+    <string name="Cloud_services_description">Выберите облачный сервис для использования</string>
     
     <!-- File sharing -->
-    <string name="File_sharing_active">File sharing active</string>
-    <string name="ftp_server_hint">To connect, type the server\'s address in the Windows Explorer address bar, or use any FTP client.</string>
-    <string name="You_cannot_share_root_directory">You cannot the share root directory</string>
-    <string name="File_sharing_stopped">File sharing stopped</string>
-    <string name="None">None</string>
-    <string name="You_have_to_be_connected_to_the_LAN_network">You must be connected to a local network</string>
-    <string name="Active">Active</string>
-    <string name="Inactive">Inactive</string>
-    <string name="FTP_Server">FTP Server</string>
-    <string name="Shared_directory">Shared directory</string>
-    <string name="Type_to_change">Type to change</string>
-    <string name="No_password_set">No password set</string>
-    <string name="Status">Status</string>
-    <string name="Server_address">Server address</string>
-    <string name="Start">Start</string>
-    <string name="Stop">Stop</string>
+    <string name="File_sharing_active">Передача файла</string>
+    <string name="ftp_server_hint">Для подключения, введите адрес сервера в адресной строке окна, или используйте любой FTP клиент.</string>
+    <string name="You_cannot_share_root_directory">Вы не можете отправить корневой каталог</string>
+    <string name="File_sharing_stopped">Отправка остановлена</string>
+    <string name="None">Ничего</string>
+    <string name="You_have_to_be_connected_to_the_LAN_network">Вы должны быть подключены к локальной сети</string>
+    <string name="Active">Активный</string>
+    <string name="Inactive">Неактивный</string>
+    <string name="FTP_Server">FTP Сервер</string>
+    <string name="Shared_directory">Общий каталог</string>
+    <string name="Type_to_change">Введите для изменения</string>
+    <string name="No_password_set">Пароль не установлен</string>
+    <string name="Status">Статус</string>
+    <string name="Server_address">Адрес сервера</string>
+    <string name="Start">Начать</string>
+    <string name="Stop">Остановить</string>
     
     
     <!-- Archive dialog -->
-    <string name="Create_archive_dialog_title">Create archive</string>
-    <string name="Archive_name">Archive name</string>
-    <string name="Compression">Compression</string>
-    <string name="Format">Format</string>
-    <string name="Use_password_protection">Use password protection</string>
-    <string name="Fast">Fast</string>
-    <string name="Normal">Normal</string>
-    <string name="Good">Good</string>
-    <string name="Best">Best</string>
+    <string name="Create_archive_dialog_title">Создание архива</string>
+    <string name="Archive_name">Имя архива</string>
+    <string name="Compression">Сжатие</string>
+    <string name="Format">Формат..</string>
+    <string name="Use_password_protection">Использовать защиту паролем</string>
+    <string name="Fast">Быстрое</string>
+    <string name="Normal">Нормальное</string>
+    <string name="Good">Хорошее</string>
+    <string name="Best">Лучшее</string>
     
     <!-- File properties -->
     <string name="Content_summary">Content summary</string>
