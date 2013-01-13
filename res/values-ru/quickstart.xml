@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="page1_1">Solid Explorer has two independent panels for file browsing. As an example, you browse the SD card directory in one panel and your network storage in the second. File management is a breeze.</string>
+    <string name="page1_1">Solid Explorer имеет две независимые панели для просмотра файлов. Например, вы можете получить каталог SD-карты в одной панели и компьютера во второй. Теперь вы можете управлять файлами с легкостью.</string>
     <string name="page1_2">In portrait (upright) mode, one panel is visible at a time. To switch between them, just swipe left or right. In landscape mode, two panels are visible.</string>
     <string name="page2_1">You can drag a file by holding down on its icon and dropping it somewhere on the opposite panel. Just slide to the edge of the screen and the second panel will show up.</string>
     <string name="page2_2">You can drop files into a directory as well. Hold the file over a folder for a bit, and the folder will open. Then, just drop the file in..</string>
