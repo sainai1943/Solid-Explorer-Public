@@ -11,7 +11,7 @@
     
     <string name="Invalid_password_for_user_x">Invalid password for user \&quot;%\&quot;</string>
     <string name="Invalid_master_password">Invalid master password</string>
-    <string name="Unable_to_execute_shell_command">Unable to execute shell command</string>
+    <string name="Unable_to_execute_shell_command">Unable to execute the command</string>
     <string name="No_root_access_available">No root access available</string>
     <string name="Unable_to_read_root_directory">Unable to read root directory</string>
     
@@ -39,5 +39,11 @@
     <string name="Unknown_error">Unknown error</string>
     <string name="Cannot_create_directory_X">Cannot create directory \&quot;%x\&quot;</string>
     <string name="Unable_to_start_the_service_on_port_x">Unable to start the service on port %</string>
+    
+    <string name="Invalid_position">Invalid position</string>
+    <string name="Unable_to_delete_file_x">Unable to delete file %</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Unable to mount the system as read/write</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Unable to mount the system as read only</string>
+    <string name="Access_denied">Access denied</string>
     
 </resources>
