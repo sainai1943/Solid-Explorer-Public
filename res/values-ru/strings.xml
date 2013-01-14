@@ -224,7 +224,7 @@
     <string name="Create_archive_dialog_title">Создание архива</string>
     <string name="Archive_name">Имя архива</string>
     <string name="Compression">Сжатие</string>
-    <string name="Format">Формат..</string>
+    <string name="Format">Формат</string>
     <string name="Use_password_protection">Использовать защиту паролем</string>
     <string name="Fast">Быстрое</string>
     <string name="Normal">Нормальное</string>
@@ -457,152 +457,152 @@
 
     
     <!-- Open as dialog -->
-    <string name="Open_as">Open as...</string>
-    <string name="Choose_a_preferred_type">Choose a preferred type</string>
-    <string name="Text_file">Text file</string>
-    <string name="Image_file">Image file</string>
-    <string name="Music_file">Music file</string>
-    <string name="Video_file">Video file</string>
-    <string name="ZIP_archive">ZIP Archive</string>
+    <string name="Open_as">Открыть как...</string>
+    <string name="Choose_a_preferred_type">Выберите предпочитаемый тип</string>
+    <string name="Text_file">Текстовый файл</string>
+    <string name="Image_file">Файл изображения</string>
+    <string name="Music_file">Музыкальный файл</string>
+    <string name="Video_file">Видео файл</string>
+    <string name="ZIP_archive">ZIP-архив</string>
     
     
     <!-- File picker -->
     
-    <string name="Create_shortcut">Create shortcut</string>
-    <string name="Shortcut_tip">To create a folder shortcut, choose \&quot;Create shortcut\&quot; from the context menu.</string>
+    <string name="Create_shortcut">Создать ярлык</string>
+    <string name="Shortcut_tip">Чтобы создать папку, выберите \&quot;Создать ярлык\&quot; из контекстного меню.</string>
     
 
     
 	<!-- Text editor -->
-    <string name="Wrap_lines">Wrap lines</string>
-    <string name="Font_size">Font size</string>
-    <string name="Font">Font</string>
-    <string name="App_default">App default</string>
-    <string name="System_default">System default</string>
+    <string name="Wrap_lines">Перенос линий</string>
+    <string name="Font_size">Размер шрифта</string>
+    <string name="Font">Шрифт</string>
+    <string name="App_default">Приложение по умолчанию</string>
+    <string name="System_default">Системное по умолчанию</string>
     <string name="Serif">Serif</string>
     <string name="Monospace">Monospace</string>
-    <string name="File_saved_successfully">File saved successfully</string>
+    <string name="File_saved_successfully">Файл успешно сохранен</string>
     
     
     <!-- Preferences -->
 	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
 	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
-    <string name="Appearance">Appearance</string>
-	<string name="Theme">Theme</string>
-    <string name="Choose_between_preinstalled_themes">Choose between preinstalled themes</string>
-    <string name="Light">Light</string>
-    <string name="Dark">Dark</string>
+    <string name="Appearance">Внешний вид</string>
+	<string name="Theme">Тема приложения</string>
+    <string name="Choose_between_preinstalled_themes">Выберите желаемую тему</string>
+    <string name="Light">Светлая</string>
+    <string name="Dark">Темная</string>
     
-    <string name="Toggle_visibility_of_hidden_files">Toggle visibility of hidden files</string>
-    <string name="Show_hidden_files">Show hidden files</string>
+    <string name="Toggle_visibility_of_hidden_files">Включить видимость скрытых файлов</string>
+    <string name="Show_hidden_files">Скрытые файлы</string>
     
-    <string name="Show_file_permissions">Show file permissions</string>
-    <string name="Show_file_permissions_summary">Show Unix style permissions instead of last modification date (root files only).</string>
+    <string name="Show_file_permissions">Разрешение прав у файлов</string>
+    <string name="Show_file_permissions_summary">Показывать разрешения у файлов в стиле Unix, а не дату последнего изменения (только root).</string>
     
-    <string name="Date_format">Date format</string>
-    <string name="Customize_date_format">Customize date format</string>
+    <string name="Date_format">Формат даты</string>
+    <string name="Customize_date_format">Настроить формат даты</string>
     
-    <string name="Time_format">Time format</string>
-	<string name="Customize_time_format">Customize time format</string>
+    <string name="Time_format">Формат времени</string>
+    <string name="Customize_time_format">Настроить формат времени</string>
 	
-	<string name="Show_fast_scroll_thumb_in_file_list">Show fast scroll thumb in the file list</string>
-    <string name="Use_fast_scroll">Use fast scroll</string>
+    <string name="Show_fast_scroll_thumb_in_file_list">Показывать ползунок прокрутки в списке файлов</string>
+    <string name="Use_fast_scroll">Быстрая прокрутка</string>
     
-    <string name="Low_quality_thumbnails">Low quality thumbnails</string>
-    <string name="Low_quality_thumbnails_summary">Suitable for low memory usage</string>
+    <string name="Low_quality_thumbnails">Низкое качество миниатюр</string>
+    <string name="Low_quality_thumbnails_summary">Подходит если маленький объём памяти</string>
     
-    <string name="Portrait_fullscreen">Portrait fullscreen</string>
-    <string name="Portrait_fullscreen_summary">Hides the system status bar in portrait mode</string>
+    <string name="Portrait_fullscreen">Портретный режим</string>
+    <string name="Portrait_fullscreen_summary">Скрыть статус-бар в портретном режиме (полный экран)</string>
     
-    <string name="Landscape_fullscreen">Landscape fullscreen</string>
-    <string name="Landscape_fullscreen_summary">Hides the system status bar in landscape mode</string>
+    <string name="Landscape_fullscreen">Альбомный режим</string>
+    <string name="Landscape_fullscreen_summary">Скрыть статус-бар в альбомном режиме (полный экран)</string>
     
-    <string name="File_list_size">Portrait list size</string>
-    <string name="Adjust_size_of_the_file_list">Adjust size of the file list in portrait mode</string>
+    <string name="File_list_size">Портретный вид (список)</string>
+    <string name="Adjust_size_of_the_file_list">Настроить размер списка файлов в портретном режиме</string>
     
-    <string name="Landscape_file_list_size">Landscape list size</string>
-    <string name="Adjust_size_of_the_file_list_in_landscape">Adjust size of the file list in landscape mode</string>
+    <string name="Landscape_file_list_size">Альбомный вид (список)</string>
+    <string name="Adjust_size_of_the_file_list_in_landscape">Настроить размер списка файлов в альбомном режиме</string>
     
-    <string name="Small">Small</string>
-    <string name="Normal">Normal</string>
-    <string name="Big">Big</string>
-    <string name="Large">Large</string>
-    <string name="Extra_small">Tiny</string>
+    <string name="Small">Маленький</string>
+    <string name="Normal">Нормальный</string>
+    <string name="Big">Большой</string>
+    <string name="Large">Огромный</string>
+    <string name="Extra_small">Мелкий</string>
     
-    <string name="Hide_exit_button">Hide exit button</string>
-    <string name="Hide_exit_button_summary">You can also exit the app by long pressing the back key</string>
+    <string name="Hide_exit_button">Скрыть кнопку выхода</string>
+    <string name="Hide_exit_button_summary">Включится возможность выхода, через долгое нажатие клавиши Назад</string>
     
-    <string name="Startup">Startup</string>
+    <string name="Startup">Запускp</string>
     
-    <string name="Remember_last_folder">Remember last folder</string>
-    <string name="Will_start_with_recently_viewed_directories">The app will start with recently viewed directories</string>
-    
-    
-    <string name="First_panel_default_dir">First panel directory</string>
-    <string name="Second_panel_default_dir">Second panel directory</string>
-    
-    <string name="Change_pictures_directory">Change pictures directory</string>
-    <string name="Change_downloads_directory">Change downloads directory</string>
-    
-    <string name="Drag_and_drop">Drag and Drop</string>
-    <string name="Action_for_drop_inside_the_panel">Action for the same panel</string>
-    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Dropping an item to a folder in the same panel</string>
-    <string name="Action_for_drop_to_the_second_panel">Action for the second panel</string>
-    <string name="Dropping_an_item_to_the_second_panel">Dropping an item to the second panel</string>
-    <string name="Move">Move</string>
-    
-    <string name="Security">Security</string>
-    <string name="Master_password_prompt">Solid Explorer uses a master password to encrypt all login credentials. If you care about security it is recommended to use this feature. You will be prompted for the master password only once unless you restart the app. Otherwise default encryption without a password is used. Would you like to use this feature?</string>
-    <string name="Disable_master_password_warning">Disabling master password will cause switching to the default password. You will never be asked for it. Login credentials will still be encrypted. Do you want to proceed?</string>
-    <string name="Enable_master_password_warning">If you have any previous bookmarks encrypted with the default password, they will be removed. Continue?</string>
-    <string name="Enable_master_password">Enable master password</string>
-	<string name="Too_weak_password">Password must be at least 6 characters, no more than 16 characters</string>
-    <string name="Enter_the_master_password">Enter the master password</string>
-    <string name="Enter_a_new_master_password">Enter a new master password.</string> 
-    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Encrypt all login credentials with a master password</string>
-    <string name="Set_master_password">Change master password</string>
-    <string name="All_passwords_will_be_reencrypted">All passwords will be re-encrypted</string>
-    
-    <string name="I_dont_remember_my_old_password">I don\'t remember my old password</string>
-    <string name="Reset_password_warning">Warning! If you set the new password right now, then all bookmarks, which passwords has been encrypted using the old one, will be removed.</string>
-    <string name="Old_password">Old password</string>
-    <string name="New_password">New password</string>
-    <string name="Master_password_has_been_disabled">Master password has been disabled</string>
-    <string name="Passwords_do_not_match">Passwords do not match</string>
-    <string name="Password_is_too_short">Password is too short</string>
+    <string name="Remember_last_folder">Помнить последнюю папку</string>
+    <string name="Will_start_with_recently_viewed_directories">Начать с недавно просмотренных каталогов</string>
     
     
+    <string name="First_panel_default_dir">Каталог первой панели</string>
+    <string name="Second_panel_default_dir">Каталог второй панели</string>
     
-    <string name="Search_interface">Search interface</string>
-    <string name="Search_key_starts_filtering">Search key starts filtering</string>
-    <string name="Search_key_starts_filtering_summary">Start filtering list instead of launching search activity</string>
-    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Match only beginning of the word when filtering the list</string>
-    <string name="Filter_words_from_the_beginning">Filter from the beginning</string>
-    <string name="Customize_indexing_engine_behaviour">Customize indexing engine behaviour</string>
-    <string name="Indexing_engine">Indexing engine</string>
-    	<string name="Reindex_now">Reindex now</string>
-    	<string name="Refresh_index_database">Refresh index database. It has no effect when the process is active.</string>
-    	<string name="Clear_index_data">Clear index data</string>
-    	<string name="Delete_all_index_data">Delete all index data</string>
-    	<string name="Reindex_on_media_mount">Reindex on media mount</string>
-    	<string name="Reindex_storage_device_when_it_is_mounted">Reindex storage device when it is mounted (recommended)</string>
-    	<string name="Shedule_indexing">Schedule indexing</string>
-    	<string name="Perform_reindex_every_given_period">Perform reindex every given period</string>
-    	<string name="Set_time_and_period">Set time and period</string>
-    	<string name="The_time_when_the_indexing_will_be_triggered">The time when the indexing will be triggered</string>
-    	<string name="Maximum_index_age">Maximum index age</string>
-    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">How much time the index should remain in the database when its file does not exist</string>
-    	<string name="one_day">1 day</string>
-    	<string name="two_days">2 days</string>
-    	<string name="five_days">5 days</string>
-    	<string name="One_week">One week</string>
-    	<string name="Choose_interval">Choose_interval</string>
-    	<string name="three_days">3 days</string>
-    	<string name="How_often_indexing_will_be_performed">How often indexing will be performed</string>
-    	<string name="Set_period">Set period</string>
-    	<string name="Set_time">Set time</string>
-    	<string name="Show_notifications">Show notifications</string>
-    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Show notifications when indexing has been completed or aborted</string>
+    <string name="Change_pictures_directory">Изменить каталог изображений</string>
+    <string name="Change_downloads_directory">Изменить каталог загрузок</string>
+    
+    <string name="Drag_and_drop">Перетаскивание</string>
+    <string name="Action_for_drop_inside_the_panel">Отпустить внутри панели</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетаскивание папки, в панели</string>
+    <string name="Action_for_drop_to_the_second_panel">Отпустить во второй панели</string>
+    <string name="Dropping_an_item_to_the_second_panel">Перетаскивание во второй панели</string>
+    <string name="Move">Переместить</string>
+    
+    <string name="Security">Безопасность</string>
+    <string name="Master_password_prompt">Solid Explorer использует для безопасности, мастер-пароль для шифрования всех учетных данных входа. Вам будет предложен мастер-пароль только один раз, до перезапуска приложения. В противном случае используется шифрование по умолчанию, без пароля. Хотите использовать эту функцию?</string>
+    <string name="Disable_master_password_warning">Отключение мастер-пароля приведет, к паролю по умолчанию. Вас никогда не спросят о нем. Выполнение входа останется зашифрованным. Вы хотите продолжить?</string>
+    <string name="Enable_master_password_warning">Если у вас есть любые предыдущие зашифрованные закладки с паролем по умолчанию, они будут удалены. Продолжить?</string>
+    <string name="Enable_master_password">Включить мастер-пароль</string>
+	<string name="Too_weak_password">Пароль должен содержать не менее 6 и не более 16 символов</string>
+    <string name="Enter_the_master_password">Введите мастер-пароль</string>
+    <string name="Enter_a_new_master_password">Введите новый мастер-пароль.</string> 
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Шифровать все данные учетной записи, с помощью мастер-пароля</string>
+    <string name="Set_master_password">Изменить мастер-пароль</string>
+    <string name="All_passwords_will_be_reencrypted">Все пароли будут повторно зашифрованы</string>
+    
+    <string name="I_dont_remember_my_old_password">Я не помню старый пароль</string>
+    <string name="Reset_password_warning">Внимание! Если вы установите новый пароль прямо сейчас, то все закладки, которые были зашифрованы с использованием старого пароля, будут удалены.</string>
+    <string name="Old_password">Старый пароль</string>
+    <string name="New_password">Новый пароль</string>
+    <string name="Master_password_has_been_disabled">Мастер-пароль был отключен</string>
+    <string name="Passwords_do_not_match">Пароли не совпадают</string>
+    <string name="Password_is_too_short">Пароль слишком короткий</string>
+    
+    
+    
+    <string name="Search_interface">Поиск и индекс</string>
+    <string name="Search_key_starts_filtering">Поиск с фильтром (ключевое начало)</string>
+    <string name="Search_key_starts_filtering_summary">Поиск ключевого начала (фильтрация краткого изложения)</string>
+    <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Соответствие по началу слова, фильтруя список</string>
+    <string name="Filter_words_from_the_beginning">Фильтр слов с самого начала</string>
+    <string name="Customize_indexing_engine_behaviour">Настроить поведение индексации</string>
+    <string name="Indexing_engine">Поведение индексации</string>
+    	<string name="Reindex_now">Переиндексировать</string>
+    	<string name="Refresh_index_database">Обновить порядок базы данных. (Не имеет эффекта, когда процесс активен).</string>
+    	<string name="Clear_index_data">Очистить данные индекса</string>
+    	<string name="Delete_all_index_data">Удалить все данные индекса</string>
+    	<string name="Reindex_on_media_mount">Автоиндексирование</string>
+    	<string name="Reindex_storage_device_when_it_is_mounted">Переиндексировать хранилище устройства, при обнаружении (рекомендуется)</string>
+    	<string name="Shedule_indexing">Расписание индексирования</string>
+    	<string name="Perform_reindex_every_given_period">Автоиндексирование по расписанию</string>
+    	<string name="Set_time_and_period">Расписание</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">Автоиндексироание в заданный период</string>
+    	<string name="Maximum_index_age">Максимальный срок хранения</string>
+    	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Сколько времени индекс должен оставаться в базе данных, если его файл не существует</string>
+    	<string name="one_day">1 день</string>
+    	<string name="two_days">2 дня</string>
+    	<string name="five_days">5 дней</string>
+    	<string name="One_week">Одна неделя</string>
+    	<string name="Choose_interval">Выбрать интервал</string>
+    	<string name="three_days">3 дня</string>
+    	<string name="How_often_indexing_will_be_performed">Частота индексации</string>
+    	<string name="Set_period">Установить период</string>
+    	<string name="Set_time">Установить время</string>
+    	<string name="Show_notifications">Уведомления</string>
+    	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Показывать уведомления при завершении/прерывании индексации</string>
     
     
     <string name="Other">Other</string>
