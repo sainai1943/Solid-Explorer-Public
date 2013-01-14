@@ -532,7 +532,7 @@
     <string name="Hide_exit_button">Скрыть кнопку выхода</string>
     <string name="Hide_exit_button_summary">Включится возможность выхода, через долгое нажатие клавиши Назад</string>
     
-    <string name="Startup">Запускp</string>
+    <string name="Startup">Запуск</string>
     
     <string name="Remember_last_folder">Помнить последнюю папку</string>
     <string name="Will_start_with_recently_viewed_directories">Начать с недавно просмотренных каталогов</string>
