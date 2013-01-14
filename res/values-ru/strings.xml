@@ -69,7 +69,7 @@
     <string name="File_name">По имени</string>
     <string name="File_size">По размеру</string>
     <string name="File_type">По типу</string>
-    <string name="Modified_date">По дате изменения<</string>
+    <string name="Modified_date">По дате изменения</string>
     <string name="Ascending">По возрастанию</string>
     <string name="Descending">По убыванию</string>
     <string name="In_order">Порядок сортировки</string>
