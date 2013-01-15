@@ -195,7 +195,7 @@
     <string name="Path">Путь</string>
     
     <!-- Dir picker -->
-    <string name="Pick_a_directory">Выбрать дерикторию</string>
+    <string name="Pick_a_directory">Выбрать директорию</string>
     
     <!-- Cloud storage dialog -->
     <string name="Cloud_storage_services">Сервисы облачного хранения</string>
@@ -678,7 +678,7 @@
     <string name="Label_size_points">Размер текста (max 35pt)</string>
     <string name="Columns">Колонки</string>
     <string name="No_computers_found">Компьютеры не найдены</string>
-    <string name="Local_directory">Локальная дериктория</string>
+    <string name="Local_directory">Локальная директория</string>
     <string name="Default_panel">Панель по умолчанию</string>
     <string name="Destination_type">Назначить тип</string>
     <string name="DiskUsage_not_installed">Похоже DiskUsage не установлен. Это приложение показывает использование памяти в подробном содержании и легкий в использовании. Вы хотите установить его сейчас?</string>
