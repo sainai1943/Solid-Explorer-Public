@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>а
+<resources>
 
     
     
@@ -620,7 +620,7 @@
     <string name="Clear_temporary_files_on_exit">Очистить временные файлы при выходе</string>
     <string name="Temporary_files_will_be_removed_on_app_exit">Временные файлы будут удалены при выходе из приложения</string>
     
-    <string name="Quick_start_guide">Краткое руководство</string>
+    <string name="Quick_start_guide">Начальное руководство</string>
     <string name="Learn_about_main_features">"Узнайте основные возможности Solid Explorer"</string>
     <string name="Help_make_Solid_Explorer_better">Помогите сделать Solid Explorer лучше</string>
     <string name="Report_a_bug">Сообщить об ошибке</string>
@@ -681,63 +681,63 @@
     <string name="Local_directory">Локальная дериктория</string>
     <string name="Default_panel">Панель по умолчанию</string>
     <string name="Destination_type">Назначить тип</string>
-    <string name="DiskUsage_not_installed">Looks like the DiskUsage is not installed. This app shows the memory usage in a very sophisticated and user friendly way. Do you want to install it now?</string>
-    <string name="Text_copied_to_clipboard">Text copied to clipboard</string>
-    <string name="Force_english">Force English language</string>
-    <string name="Force_english_summary">Check if you prefer the English as a primary language. Takes effect after restart.</string>
-    <string name="Encoding">Encoding</string>
-    <string name="Network_thumbnails">Network thumbnails</string>
-    <string name="Network_thumbnails_summary">When checked, image thumbnails will be loaded while using mobile data connection.</string>
-    <string name="Copy_to">Copy to</string>
-    <string name="Move_to">Move to</string>
-    <string name="Shortcut">Shortcut</string>
-    <string name="Two_panels_in_landscape_summary">Show two panels at once when in landscape orientation</string>
-    <string name="Two_panels_in_landscape">Two panels in landscape</string>
-    <string name="Restart_prompt">The application has to be restarted in order to apply changes. Continue?</string>
-    <string name="Custom_color_scheme">Custom color scheme</string>
-    <string name="Custom_color_scheme_summary">Customize the overall color scheme. Will drastically slow down application startup.</string>
-    <string name="Color_scheme">Color scheme</string>
-    <string name="Color_scheme_summary">Change the hue and saturation of the current color scheme</string>
-    <string name="Change_color_scheme">Change color scheme</string>
-    <string name="Hue">Hue</string>
-    <string name="Saturation">Saturation</string>
-    <string name="SolidExplorer_is_running">Solid Explorer is running</string>
-    <string name="Notification_shortcut">Notification shortcut</string>
-    <string name="Notification_shortcut_summary">Put the shortcut in the status bar when the app is running in the background</string>
-    <string name="Please_wait">Please wait</string>
+    <string name="DiskUsage_not_installed">Похоже DiskUsage не установлен. Это приложение показывает использование памяти в подробном содержании и легкий в использовании. Вы хотите установить его сейчас?</string>
+    <string name="Text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
+    <string name="Force_english">Английский язык</string>
+    <string name="Force_english_summary">Будет использован интерфейс на английском языке. Программа будет перезапущена.</string>
+    <string name="Encoding">Кодирование</string>
+    <string name="Network_thumbnails">Сетевой кэш миниатюр</string>
+    <string name="Network_thumbnails_summary">Будет использован мобильный трафик или другое подключение.</string>
+    <string name="Copy_to">Копировать в</string>
+    <string name="Move_to">Переместить в</string>
+    <string name="Shortcut">Ярлык</string>
+    <string name="Two_panels_in_landscape_summary">Показать сразу две панели в альбомной ориентации экрана</string>
+    <string name="Two_panels_in_landscape">Две панели (альбомный режим)</string>
+    <string name="Restart_prompt">Для применения изменений необходимо перезапустить программу. Продолжить?</string>
+    <string name="Custom_color_scheme">Настройка цветовой схемы</string>
+    <string name="Custom_color_scheme_summary">Полная настройка цветовой схемы. Запуск приложения будет значительно замедлен.</string>
+    <string name="Color_scheme">Цветовая схема</string>
+    <string name="Color_scheme_summary">Изменить оттенок и насыщенность текущей цветовой схемы</string>
+    <string name="Change_color_scheme">Изменить цветовую схему</string>
+    <string name="Hue">Тон</string>
+    <string name="Saturation">Насыщенность</string>
+    <string name="SolidExplorer_is_running">Solid Explorer работает</string>
+    <string name="Notification_shortcut">Уведомления в статус-баре</string>
+    <string name="Notification_shortcut_summary">Уведомлять в строке состояния, когда приложение работает в фоне.</string>
+    <string name="Please_wait">Пожалуйста, подождите</string>
     
     
-    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Are you sure you want to copy this to the opposite panel?</string>
-	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Are you sure you want to move this to the opposite panel?</string>
-	<string name="Image_not_loaded">Image not loaded</string>
-	<string name="Target_SDK">Target SDK</string>
-	<string name="Description">Description</string>
-	<string name="Data_dir">Data dir</string> <!-- short word please -->
-	<string name="Installed">Installed</string>
-	<string name="Updated">Updated</string>
-	<string name="Install">Install</string>
-	<string name="More">More</string>
-	<string name="Package_name">Package name</string>
-	<string name="Map_view">Map view</string>
-	<string name="Street_view">Street view</string>
-	<string name="Ask">Ask</string>
-	<string name="Choose_an_action">Choose an action</string>
-	<string name="Folders_first">Folders first</string>
-	<string name="Folders_first_summary">Show folders first, then files.</string>
-	<string name="FAQ">FAQ</string>
-	<string name="FAQ_summary">Please read the FAQ before asking any question</string>
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Вы уверены, что хотите скопировать во вторую панель?</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Вы уверены, что хотите переместить во вторую панель?</string>
+	<string name="Image_not_loaded">Изображение не загружено</string>
+	<string name="Target_SDK">Уровень SDK</string>
+	<string name="Description">Описание</string>
+	<string name="Data_dir">Папка данных</string> <!-- short word please -->
+	<string name="Installed">Установленные</string>
+	<string name="Updated">Обновленные</string>
+	<string name="Install">Установить</string>
+	<string name="More">Больше</string>
+	<string name="Package_name">Имя пакета</string>
+	<string name="Map_view">Обзор карты</string>
+	<string name="Street_view">Обзор улицы</string>
+	<string name="Ask">Спрашивать</string>
+	<string name="Choose_an_action">Выбрать действие</string>
+	<string name="Folders_first">Сначала папки</string>
+	<string name="Folders_first_summary">Показывать папки, затем файлы.</string>
+	<string name="FAQ">Справка</string>
+	<string name="FAQ_summary">Пожалуйста, прочтите примечания, перед своим вопросом</string>
 	
 	<!-- v 1.3.8 -->
-	<string name="Quick_config">Quick config</string> <!-- short word please -->
+	<string name="Quick_config">Конфигурация</string> <!-- short word please -->
 	
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
-    	<string name="X_folders_and_Y_files_deleted">%x folder{1:|__:s} and %y file{1:|__:s} deleted.</string>
-    	<string name="X_folders_and_Y_files_copied">%x folder{1:|__:s} and %y file{1:|__:s} copied.</string>
-    	<string name="X_folders_and_Y_files_moved">%x folder{1:|__:s} and %y file{1:|__:s} moved.</string>
-    	<string name="Deleting_X_folders_and_Y_files">Deleting %x folder{1:|__:s} and %y file{1:|__:s}</string>
-    	<string name="Copying_X_folders_and_Y_files">Copying %x folder{1:|__:s} and %y file{1:|__:s}</string>
-    	<string name="Moving_X_folders_and_Y_files">Moving %x folder{1:|__:s} and %y file{1:|__:s}</string>
+    	<string name="X_folders_and_Y_files_deleted">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} удалено.</string>
+    	<string name="X_folders_and_Y_files_copied">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:а|__:ов} скопировано.</string>
+    	<string name="X_folders_and_Y_files_moved">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:а|__:ов} перемещено.</string>
+    	<string name="Deleting_X_folders_and_Y_files">Удаление %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
+    	<string name="Copying_X_folders_and_Y_files">Копирование %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
+    	<string name="Moving_X_folders_and_Y_files">Перемещение %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	
     	<string name="X_folders_moved">% folder{1:|__:s} moved.</string>
     	<string name="Moving_X_folders">Moving % folder{1:|__:s}</string>
