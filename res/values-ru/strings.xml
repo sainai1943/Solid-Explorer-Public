@@ -768,13 +768,13 @@
     	<string name="Standard">Стандартный</string>
     	<string name="No_compression">Без сжатия</string>
     	<string name="A_while_ago">Недавно</string>
-    	<string name="X_hours_Y_minutes_ago">%x час{0:ов|1:|2-4:а|_2-4:ов|__:ов} %y мин{0:|1:ута|2-4:уты|_2-4:уты|__:ут} ago</string>
+    	<string name="X_hours_Y_minutes_ago">%x час{0:ов|1:|2-4:а|_2-4:ов|__:ов} %y мин{0:ут|1:ута|2-4:уты|_2-4:уты|__:ут} ago</string>
     	<!-- Already exists, just changed the content -->
-    	<string name="Expiration_message">Thank you for using Solid Explorer, your trial is over now. To continue using this app, buy me a virtual beer by purchasing the unlocker from Google Play. Do it only when you are fully satisfied with the app.</string>
-    	<string name="Purchased_message">Thank you for purchasing the full version of Solid Explorer. I hope you will enjoy it.</string>
-    	<string name="Trial_expired">Trial expired</string>
-    	<string name="Purchase">Purchase</string>
-    	<string name="No_thanks">No, thanks</string>
-    	<string name="Function_not_available">This function is not available in current system version</string>
+    	<string name="Expiration_message">Спасибо, что выбрали Solid Explorer. Чтобы продолжить работу с этим приложением, купите мне виртуальное пиво, посредством покупки ключа разблокировки с Google Play. Делайте это только тогда, когда вы полностью удовлетворены приложением.</string>
+    	<string name="Purchased_message">Благодарю Вас за покупку полной версии Solid Explorer. Я надеюсь, что Вы довольны.</string>
+    	<string name="Trial_expired">Пробный период истек</string>
+    	<string name="Purchase">Купить</string>
+    	<string name="No_thanks">Нет, спасибо</string>
+    	<string name="Function_not_available">Эта функция недоступна в текущей версии прошивки</string>
 	
 </resources>
