@@ -203,7 +203,7 @@
     
     <!-- File sharing -->
     <string name="File_sharing_active">Передача файла</string>
-    <string name="ftp_server_hint">Для подключения, введите адрес сервера в адресной строке окна, или используйте любой FTP клиент.</string>
+    <string name="ftp_server_hint">Для подключения введите адрес сервера в адресной строке окна или используйте любой FTP клиент.</string>
     <string name="You_cannot_share_root_directory">Вы не можете отправить корневой каталог</string>
     <string name="File_sharing_stopped">Отправка остановлена</string>
     <string name="None">Ничего</string>
@@ -347,7 +347,7 @@
     	<string name="SkyDrive_doesnt_support_x_files">SkyDrive не поддерживает \&quot;%\&quot; файлы. Операция прервана.</string>
     	<string name="Operation_not_supported">Операция не поддерживается</string>
     	<string name="You_have_to_provide_a_password">Вы должны предоставить пароль</string>
-    	<string name="Insufficient_space" formatted="false">Не хватает места, для завершения операции. Размер: %, Доступно: %.</string>
+    	<string name="Insufficient_space" formatted="false">Не хватает места для завершения операции. Размер: %, Доступно: %.</string>
     	<string name="Command_executed_successfully">Команда выполнена успешно</string>
     	<string name="Deleting_data">Удаление данных</string>
     	<string name="Done">Готово</string>
@@ -397,7 +397,7 @@
 
     	<string name="Can_not_create_the_file">Не удается создать файл</string>
     	<string name="Uknown_file_type">Неизвестный тип файла</string>
-    	<string name="No_activity_found_to_open_this_file">Не найдено приложений, для открытия этого файла</string>
+    	<string name="No_activity_found_to_open_this_file">Не найдено приложений для открытия этого файла</string>
     	<string name="You_cant_send_a_folder">Нельзя отправить папку</string>
     	<string name="Indexing_has_been_unscheduled">Индексация была перенесена</string>
     	<string name="Scheduled_indexing">Запланированная индексация</string>
@@ -546,17 +546,17 @@
     
     <string name="Drag_and_drop">Перетаскивание</string>
     <string name="Action_for_drop_inside_the_panel">Отпустить внутри панели</string>
-    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетаскивание папки, в панели</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетаскивание папки в панели</string>
     <string name="Action_for_drop_to_the_second_panel">Отпустить во второй панели</string>
     <string name="Dropping_an_item_to_the_second_panel">Перетаскивание во второй панели</string>
     <string name="Move">Переместить</string>
     
     <string name="Security">Безопасность</string>
-    <string name="Master_password_prompt">Solid Explorer использует для безопасности, мастер-пароль для шифрования всех учетных данных входа. Вам будет предложен мастер-пароль только один раз, до перезапуска приложения. В противном случае используется шифрование по умолчанию, без пароля. Хотите использовать эту функцию?</string>
-    <string name="Disable_master_password_warning">Отключение мастер-пароля приведет, к паролю по умолчанию. Вас никогда не спросят о нем. Выполнение входа останется зашифрованным. Вы хотите продолжить?</string>
+    <string name="Master_password_prompt">Solid Explorer использует для безопасности мастер-пароль, для шифрования всех учетных данных входа. Вам будет предложен мастер-пароль только один раз, до перезапуска приложения. В противном случае используется шифрование по умолчанию, без пароля. Хотите использовать эту функцию?</string>
+    <string name="Disable_master_password_warning">Отключение мастер-пароля, приведет к паролю по умолчанию. Вас никогда не спросят о нем. Выполнение входа останется зашифрованным. Вы хотите продолжить?</string>
     <string name="Enable_master_password_warning">Если у вас есть любые предыдущие зашифрованные закладки с паролем по умолчанию, они будут удалены. Продолжить?</string>
     <string name="Enable_master_password">Включить мастер-пароль</string>
-	<string name="Too_weak_password">Пароль должен содержать не менее 6 и не более 16 символов</string>
+    <string name="Too_weak_password">Пароль должен содержать не менее 6 и не более 16 символов</string>
     <string name="Enter_the_master_password">Введите мастер-пароль</string>
     <string name="Enter_a_new_master_password">Введите новый мастер-пароль.</string> 
     <string name="Encrypt_all_login_ceredentials_with_a_master_password">Шифровать все данные учетной записи, с помощью мастер-пароля</string>
@@ -640,7 +640,7 @@
     <!-- Other -->
     <string name="Prefix">Prefix</string>
     <string name="Empty">Empty</string>
-	<string name="search_description">Search your device using Solid Explorer</string>
+    <string name="search_description">Search your device using Solid Explorer</string>
     <string name="search_hint">Type a file name </string>
     <string name="Save_file">Save file</string>
     <string name="Solid_explorer_indexing_service">Solid Explorer indexing service</string>
