@@ -139,7 +139,7 @@
     <string name="Match_mode">Режим совпадений</string>
     <string name="Match_start">Сначала слова</string>
     <string name="Match_any">Любое совпадение</string>
-    <string name="Match_end">Конец слова</string>
+    <string name="Match_end">С конца слова</string>
     
     <!-- Operations activity -->
     <string name="History_is_empty">История пуста</string>
@@ -199,7 +199,7 @@
     
     <!-- Cloud storage dialog -->
     <string name="Cloud_storage_services">Сервисы облачного хранения</string>
-    <string name="Cloud_services_description">Выберите облачный сервис для использования</string>
+    <string name="Cloud_services_description">Выбрать облачный сервис для использования</string>
     
     <!-- File sharing -->
     <string name="File_sharing_active">Передача файла</string>
@@ -559,7 +559,7 @@
     <string name="Too_weak_password">Пароль должен содержать не менее 6 и не более 16 символов</string>
     <string name="Enter_the_master_password">Введите мастер-пароль</string>
     <string name="Enter_a_new_master_password">Введите новый мастер-пароль.</string> 
-    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Шифровать все данные учетной записи, с помощью мастер-пароля</string>
+    <string name="Encrypt_all_login_ceredentials_with_a_master_password">Шифровать все данные учетной записи с помощью мастер-пароля</string>
     <string name="Set_master_password">Изменить мастер-пароль</string>
     <string name="All_passwords_will_be_reencrypted">Все пароли будут повторно зашифрованы</string>
     
@@ -575,7 +575,7 @@
     
     <string name="Search_interface">Поиск и индекс</string>
     <string name="Search_key_starts_filtering">Поиск с фильтром (ключевое начало)</string>
-    <string name="Search_key_starts_filtering_summary">Поиск ключевого начала (фильтрация краткого изложения)</string>
+    <string name="Search_key_starts_filtering_summary">Поиск ключевого начала (фильтрация кратких изложений)</string>
     <string name="Match_only_beginning_of_the_word_when_filtering_the_list">Соответствие по началу слова, фильтруя список</string>
     <string name="Filter_words_from_the_beginning">Фильтр слов с самого начала</string>
     <string name="Customize_indexing_engine_behaviour">Настроить поведение индексации</string>
@@ -631,7 +631,7 @@
     <string name="Version">Версия</string>
     <string name="Changelog">Список изменений</string>
     <string name="Whats_new">Что нового</string>
-    <string name="Author">Аатор</string>
+    <string name="Author">Автор</string>
     <string name="Functionality_for_future_releases">Функции будущих версий</string>
     <string name="Planned_features">Планируемые возможности</string>
     
@@ -665,7 +665,7 @@
     <string name="Press_once_again_to_exit">Нажмите ещё раз для выхода</string>
     
     
-    <string name="View_in_DiskUsage">Посмотреть в Карта SD</string>
+    <string name="View_in_DiskUsage">Посмотреть в DiskUsage</string>
     <string name="Retry">Повторить</string>
     <string name="Portrait">Портретная</string>
     <string name="Landscape">Альбомная</string>
@@ -681,7 +681,7 @@
     <string name="Local_directory">Локальная директория</string>
     <string name="Default_panel">Панель по умолчанию</string>
     <string name="Destination_type">Назначить тип</string>
-    <string name="DiskUsage_not_installed">Похоже DiskUsage не установлен. Это приложение показывает использование памяти в подробном содержании и легкий в использовании. Вы хотите установить его сейчас?</string>
+    <string name="DiskUsage_not_installed">Похоже DiskUsage не установлен. Это приложение показывает использование памяти в подробном содержании и легкое в использовании. Вы хотите установить его сейчас?</string>
     <string name="Text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
     <string name="Force_english">Английский язык</string>
     <string name="Force_english_summary">Будет использован интерфейс на английском языке. Программа будет перезапущена.</string>
@@ -714,7 +714,7 @@
 	<string name="Description">Описание</string>
 	<string name="Data_dir">Папка данных</string> <!-- short word please -->
 	<string name="Installed">Установленные</string>
-	<string name="Updated">Обновленные</string>
+	<string name="Updated">Обновлённые</string>
 	<string name="Install">Установить</string>
 	<string name="More">Больше</string>
 	<string name="Package_name">Имя пакета</string>
@@ -753,12 +753,12 @@
     	
     <!--  v 1.3.9 -->
     	<string name="Device_labels">Метки устройства</string>
-    	<string name="Device_labels_summary">Показать нормальные имена устройств и дисков, вместо реальных имен, например \&quot;SD Карта\&quot; instead of \&quot;sdcard0\&quot;</string>
+    	<string name="Device_labels_summary">Показать нормальные имена устройств и дисков, вместо реальных имен, например \&quot;SD Карта\&quot; вместо \&quot;sdcard0\&quot;</string>
     	<string name="Swap_device_labels">Смена меток устройств</string>
     	<string name="Swap_device_labels_summary">Поменять местами встроенную память с SD картой, в случае неправильного обнаружения</string>
     	<string name="Panels">Панели</string>
     	<string name="Devices">Устройства</string>
-    	<string name="Bug_report_notice">Перед сообщением об ошибке, выполните следующее:\n\n<b>1. Существует ли данная проблема в другом файловом менеджере.\n2. Прочтите FAQ.</b>\n\nВы выполнили эти действия?</string>
+    	<string name="Bug_report_notice">Перед сообщением об ошибке, проверьте следующее:\n\n<b>1. Существует ли данная проблема в другом файловом менеджере.\n2. Прочтите FAQ.</b>\n\nВы выполнили эти действия?</string>
     	<string name="Unable_to_move_the_file">Не удалось переместить файл %</string>
     
     <!-- v 1.4.0 -->
@@ -768,7 +768,7 @@
     	<string name="Standard">Стандартный</string>
     	<string name="No_compression">Без сжатия</string>
     	<string name="A_while_ago">Недавно</string>
-    	<string name="X_hours_Y_minutes_ago">%x час{0:ов|1:|2-4:а|_2-4:ов|__:ов} %y мин{0:ут|1:ута|2-4:уты|_2-4:уты|__:ут} ago</string>
+    	<string name="X_hours_Y_minutes_ago">%x час{0:ов|1:|2-4:а|_2-4:ов|__:ов} %y мин{0:ут|1:ута|2-4:уты|_2-4:уты|__:ут} назад</string>
     	<!-- Already exists, just changed the content -->
     	<string name="Expiration_message">Спасибо, что выбрали Solid Explorer. Чтобы продолжить работу с этим приложением, купите мне виртуальное пиво, посредством покупки ключа разблокировки с Google Play. Делайте это только тогда, когда вы полностью удовлетворены приложением.</string>
     	<string name="Purchased_message">Благодарю Вас за покупку полной версии Solid Explorer. Я надеюсь, что Вы довольны.</string>
