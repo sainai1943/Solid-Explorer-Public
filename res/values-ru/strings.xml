@@ -733,17 +733,17 @@
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
     	<string name="X_folders_and_Y_files_deleted">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} удалено.</string>
-    	<string name="X_folders_and_Y_files_copied">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:а|__:ов} скопировано.</string>
-    	<string name="X_folders_and_Y_files_moved">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:а|__:ов} перемещено.</string>
+    	<string name="X_folders_and_Y_files_copied">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} скопировано.</string>
+    	<string name="X_folders_and_Y_files_moved">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} перемещено.</string>
     	<string name="Deleting_X_folders_and_Y_files">Удаление %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	<string name="Copying_X_folders_and_Y_files">Копирование %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	<string name="Moving_X_folders_and_Y_files">Перемещение %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	
-    	<string name="X_folders_moved">% folder{1:|__:s} moved.</string>
-    	<string name="Moving_X_folders">Moving % folder{1:|__:s}</string>
+    	<string name="X_folders_moved">% пап{1:ка|2-4:ки|_2-4:ок|__:ок} перемещено.</string>
+    	<string name="Moving_X_folders">Перемещение % пап{1:ки|2-4:ок|_2-4:ок|__:ок}</string>
     	
-    	<string name="X_folders">% folder{1:|__:s}</string>
-    	<string name="X_files">% file{1:|__:s}</string>
+    	<string name="X_folders">% пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок}</string>
+    	<string name="X_files">% файл{0:ов|1:|2-4:а|_2-4:ов|__:ов}</string>
     	
     	<string name="Show_status_summary">Show information about directory content and used space in the explorer window</string>
     	<string name="Show_status">Show status</string>
