@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources>а
 
     
     
@@ -253,7 +253,7 @@
     <string name="Folders">Папки</string>
     <string name="Calculation_error">Ошибка вычисления</string>
     <string name="Content">Содержание</string>
-    <string name="Other_used">Другие</string>
+    <string name="Other_used">Др.использов.</string>
     <string name="Free_space">Свободно</string>
     <string name="Usage">Занято</string>
     <string name="Attributes">Атрибуты</string>
@@ -405,10 +405,10 @@
     	
     	
     	<string name="Are_you_sure_you_want_to_delete_items">Вы уверены, что хотите удалить % элемент{0:ов|1:|2-4:а|_2-4:а|__:ов}?</string>
-    	<string name="X_files_deleted">% файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} удалено.</string>
-    	<string name="X_files_copied">% файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} скопировано.</string>
-    	<string name="X_files_moved">% файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} перемещено.</string>
-    	<string name="X_items">% елемент{0:ов|1:а|2-4:ов|_2-4:ов|__:ов}</string>
+    	<string name="X_files_deleted">% файл{0:ов|1:|2-4:а|_2-4:а|__:ов} удалено.</string>
+    	<string name="X_files_copied">% файл{0:ов|1:|2-4:а|_2-4:а|__:ов} скопировано.</string>
+    	<string name="X_files_moved">% файл{0:ов|1:|2-4:а|_2-4:а|__:ов} перемещено.</string>
+    	<string name="X_items">% элемент{0:ов|1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	<string name="Deleting_X_files">Удаление % файл{0:ов|1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	<string name="Copying_X_files">Копирование % файл{0:ов|1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	<string name="Moving_X_files">Перемещение % файл{0:ов|1:а|2-4:ов|_2-4:ов|__:ов}</string>
@@ -605,82 +605,82 @@
     	<string name="Show_notifications_when_indexing_has_been_completed_or_aborted">Показывать уведомления при завершении/прерывании индексации</string>
     
     
-    <string name="Other">Other</string>
+    <string name="Other">Другое</string>
     	
-    <string name="Clear_persistent_data">Clear persistent data</string>
-    <string name="Clear_persistent_data_summary">Delete data such as thumbnail cache, temporary files, operation history, etc.</string>
-    <string name="Clear_thumbnail_cache">Clear thumbnail cache</string>
-    <string name="Clear_temporary_files">Clear temporary files</string>
-    <string name="Clear_operation_history">Clear operation history</string>
-    <string name="Delete_all_image_previews">Delete all image previews</string>
-    <string name="Delete_all_temporary_files">Delete all temporary files</string>
-    <string name="Delete_operation_history_entries">Delete operation history entries</string>
-    <string name="Clear_file_type_associations">Clear file type associations</string>
-    <string name="Clear_file_type_associations_summary">Delete information about applications used to open particular file types</string>
-    <string name="Clear_temporary_files_on_exit">Clear temp on exit</string>
-    <string name="Temporary_files_will_be_removed_on_app_exit">Temporary files will be removed on app exit</string>
+    <string name="Clear_persistent_data">Очистка постоянных даных</string>
+    <string name="Clear_persistent_data_summary">Удаление данных, с кратким содержанием.(кэш миниатюр, история операций, временные и т.д.)</string>
+    <string name="Clear_thumbnail_cache">Очистить кэш миниатюр</string>
+    <string name="Clear_temporary_files">Очистить временные файлы</string>
+    <string name="Clear_operation_history">Очистить историю операций</string>
+    <string name="Delete_all_image_previews">Удалить весь кэш миниатюр</string>
+    <string name="Delete_all_temporary_files">Удалить все временные файлы</string>
+    <string name="Delete_operation_history_entries">Удалить историю входящих операций</string>
+    <string name="Clear_file_type_associations">Очистить ассоциации типов файлов</string>
+    <string name="Clear_file_type_associations_summary">Удаление информации приложений для открытия определенных типов файлов</string>
+    <string name="Clear_temporary_files_on_exit">Очистить временные файлы при выходе</string>
+    <string name="Temporary_files_will_be_removed_on_app_exit">Временные файлы будут удалены при выходе из приложения</string>
     
-    <string name="Quick_start_guide">Quick start guide</string>
-    <string name="Learn_about_main_features">Learn about Solid Explorer\'s major features</string>
-    <string name="Help_make_Solid_Explorer_better">Help make Solid Explorer better</string>
-    <string name="Report_a_bug">Report a bug</string>
+    <string name="Quick_start_guide">Краткое руководство</string>
+    <string name="Learn_about_main_features">"Узнайте основные возможности Solid Explorer"</string>
+    <string name="Help_make_Solid_Explorer_better">Помогите сделать Solid Explorer лучше</string>
+    <string name="Report_a_bug">Сообщить об ошибке</string>
    
-    <string name="About">About</string>
-    <string name="Author_version_and_changelog">Author, version and changelog</string>
+    <string name="About">О программе</string>
+    <string name="Author_version_and_changelog">Автор, версия и список изменений</string>
     <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
-    <string name="Version">Version</string>
-    <string name="Changelog">Changelog</string>
-    <string name="Whats_new">What\'s new</string>
-    <string name="Author">Author</string>
-    <string name="Functionality_for_future_releases">Functionality for future releases</string>
-    <string name="Planned_features">Planned features</string>
+    <string name="Version">Версия</string>
+    <string name="Changelog">Список изменений</string>
+    <string name="Whats_new">Что нового</string>
+    <string name="Author">Аатор</string>
+    <string name="Functionality_for_future_releases">Функции будущих версий</string>
+    <string name="Planned_features">Планируемые возможности</string>
     
     
     
     <!-- Other -->
-    <string name="Prefix">Prefix</string>
-    <string name="Empty">Empty</string>
-    <string name="search_description">Search your device using Solid Explorer</string>
-    <string name="search_hint">Type a file name </string>
-    <string name="Save_file">Save file</string>
-    <string name="Solid_explorer_indexing_service">Solid Explorer indexing service</string>
+    <string name="Prefix">Префикс</string>
+    <string name="Empty">Пусто</string>
+    <string name="search_description">Найти своё устройство с помощью Solid Explorer</string>
+    <string name="search_hint">Ввести критерии </string>
+    <string name="Save_file">Сохранить файл</string>
+    <string name="Solid_explorer_indexing_service">Solid Explorer служба индексирования</string>
     
     
     
     <!-- acra -->
-    <string name="crash_toast_text">Ooooops! Solid Explorer has crashed. Please send the report to the developer to help him fix the issue !</string>
-    <string name="crash_notif_ticker_text">Unexpected error, please send a report...</string>
-    <string name="crash_notif_title">Solid Explorer has crashed...</string>
-    <string name="crash_notif_text">Please click here to help fix the issue.</string>
-    <string name="crash_dialog_title">Solid Explorer has crashed</string>
-    <string name="crash_dialog_text">An unexpected error occurred forcing the application to stop. Please help me fix this by sending me error data.</string>
-    <string name="crash_dialog_comment_prompt">Please provide detailed information about the problem below. In most cases it is impossible to reproduce the problem without your feedback.</string>
-    <string name="crash_dialog_ok_toast">Thank you!</string>
+    <string name="crash_toast_text">Ooooops! Отправьте сообщение об ошибке разработчику, чтобы помочь исправить её!</string>
+    <string name="crash_notif_ticker_text">Ошибка, пошлите отчёт...</string>
+    <string name="crash_notif_title">Ошибка Solid Explorer...</string>
+    <string name="crash_notif_text">Пожалуйста, нажмите здесь, чтобы помочь решить проблему.</string>
+    <string name="crash_dialog_title">Ошибка приложения</string>
+    <string name="crash_dialog_text">Ошибка, заставившая приложение остановиться. Пожалуйста, напишите мне о подробных действиях.</string>
+    <string name="crash_dialog_comment_prompt">Пожалуйста напишите о проблеме, ниже. В большинстве случаев невозможно выявить проблему, без ваших объяснений.</string>
+    <string name="crash_dialog_ok_toast">Спасибо!</string>
     
-    <string name="Icon_designer">Icon designer</string>
-    <string name="Prefix">Prefix</string>
-    <string name="Translations">Translation</string>
-    <string name="Translations_summary">Language correction by courtesy of Steven Schoen</string>
-    <string name="Empty">Empty</string>
-    <string name="Press_once_again_to_exit">Press once again to exit</string>
+    <string name="Icon_designer">Дизайн иконки</string>
+    <string name="Prefix">Префикс</string>
+    <string name="Translations">Перевод</string>
+    <string name="Translations_summary">Коррекция английского языка при поддержке Стивена Шена</string>
+    <string name="Empty">Пусто</string>
+    <string name="Press_once_again_to_exit">Нажмите ещё раз для выхода</string>
     
     
-    <string name="View_in_DiskUsage">View in DiskUsage</string>
-    <string name="Retry">Retry</string>
-    <string name="Portrait">Portrait</string>
-    <string name="Landscape">Landscape</string>
-    <string name="Customize_list">Customize list</string>
-    <string name="Customize_list_summary">Adjust the size of icons and text in the file list</string>
-    <string name="Preview">Preview</string>
-    <string name="Icon_size_pixels" formatted="false">Icon size (max: % x %)</string>
-    <string name="Label_size">Label size</string>
-    <string name="Subtext_size">Subtext size</string>
-    <string name="Label_size_points">Text size (max 35pt)</string>
-    <string name="Columns">Columns</string>
-    <string name="No_computers_found">No computers found</string>
-    <string name="Local_directory">Local directory</string>
-    <string name="Default_panel">Default panel</string>
-    <string name="Destination_type">Destination type</string>
+    <string name="View_in_DiskUsage">Посмотреть в Карта SD</string>
+    <string name="Retry">Повторить</string>
+    <string name="Portrait">Портретная</string>
+    <string name="Landscape">Альбомная</string>
+    <string name="Customize_list">Настроить список</string>
+    <string name="Customize_list_summary">Настроить размер иконок и текста в списке файлов</string>
+    <string name="Preview">Предпросмотр</string>
+    <string name="Icon_size_pixels" formatted="false">Размер иконки в пикс.(max: % x %)</string>
+    <string name="Label_size">Размер текста</string>
+    <string name="Subtext_size">Размер подтекста</string>
+    <string name="Label_size_points">Размер текста (max 35pt)</string>
+    <string name="Columns">Колонки</string>
+    <string name="No_computers_found">Компьютеры не найдены</string>
+    <string name="Local_directory">Локальная дериктория</string>
+    <string name="Default_panel">Панель по умолчанию</string>
+    <string name="Destination_type">Назначить тип</string>
     <string name="DiskUsage_not_installed">Looks like the DiskUsage is not installed. This app shows the memory usage in a very sophisticated and user friendly way. Do you want to install it now?</string>
     <string name="Text_copied_to_clipboard">Text copied to clipboard</string>
     <string name="Force_english">Force English language</string>
