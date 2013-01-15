@@ -405,9 +405,9 @@
     	
     	
     	<string name="Are_you_sure_you_want_to_delete_items">Вы уверены, что хотите удалить % элемент{0:ов|1:|2-4:а|_2-4:а|__:ов}?</string>
-    	<string name="X_files_deleted">% файл{0:ов|1:|2-4:а|_2-4:а|__:ов} удалено.</string>
-    	<string name="X_files_copied">% файл{0:ов|1:|2-4:а|_2-4:а|__:ов} скопировано.</string>
-    	<string name="X_files_moved">% файл{0:ов|1:|2-4:а|_2-4:а|__:ов} перемещено.</string>
+    	<string name="X_files_deleted">% файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} удалено.</string>
+    	<string name="X_files_copied">% файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} скопировано.</string>
+    	<string name="X_files_moved">% файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} перемещено.</string>
     	<string name="X_items">% елемент{0:ов|1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	<string name="Deleting_X_files">Удаление % файл{0:ов|1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	<string name="Copying_X_files">Копирование % файл{0:ов|1:а|2-4:ов|_2-4:ов|__:ов}</string>
