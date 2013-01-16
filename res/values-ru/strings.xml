@@ -391,11 +391,11 @@
     	<string name="File_named_already_exists">Файл с именем \&quot;%\&quot; уже существует</string>
     	<string name="Confirm_delete">Подтвердите удаление</string>
     	<string name="You_cant_create_an_archive_here">Вы не можете создать архив здесь</string>
-    	<string name="Cannot_connect_to">Не удается подключиться к \&quot;%\&quot;</string>
+    	<string name="Cannot_connect_to">Не удаёться подключиться к \&quot;%\&quot;</string>
     	<string name="You_are_not_logged_in">Вы не авторизованы</string>
-		<string name="Can_not_create_the_directory">Не удается создать каталог</string>
+		<string name="Can_not_create_the_directory">Не удаёться создать каталог</string>
 
-    	<string name="Can_not_create_the_file">Не удается создать файл</string>
+    	<string name="Can_not_create_the_file">Не удаёться создать файл</string>
     	<string name="Uknown_file_type">Неизвестный тип файла</string>
     	<string name="No_activity_found_to_open_this_file">Не найдено приложений для открытия этого файла</string>
     	<string name="You_cant_send_a_folder">Нельзя отправить папку</string>
@@ -589,7 +589,7 @@
     	<string name="Shedule_indexing">Расписание индексирования</string>
     	<string name="Perform_reindex_every_given_period">Автоиндексирование по расписанию</string>
     	<string name="Set_time_and_period">Расписание</string>
-    	<string name="The_time_when_the_indexing_will_be_triggered">Автоиндексироание в заданный период</string>
+    	<string name="The_time_when_the_indexing_will_be_triggered">Автоиндексирование в заданный период</string>
     	<string name="Maximum_index_age">Максимальный срок хранения</string>
     	<string name="How_much_time_the_index_should_remain_in_the_database_when_its_file_does_not_exist">Сколько времени индекс должен оставаться в базе данных, если его файл не существует</string>
     	<string name="one_day">1 день</string>
