@@ -52,7 +52,7 @@
     <string name="Cloud_storage">Облачное хранилище</string>
     
     <!-- "Device" popup -->
-     <string name="System_root">Корневая система</string>
+     <string name="System_root">Корень системы</string>
     <string name="SD_card">SD-Карта</string>
     <string name="Internal_memory">Внутренняя память</string>
     <string name="USB_drive_x">USB Диск %x</string>
@@ -137,7 +137,7 @@
     <string name="Matches">Совпадения</string>
     <string name="Selected">Выбранные</string>
     <string name="Match_mode">Режим совпадений</string>
-    <string name="Match_start">Сначала слова</string>
+    <string name="Match_start">По началу слова</string>
     <string name="Match_any">Любое совпадение</string>
     <string name="Match_end">С конца слова</string>
     
@@ -206,7 +206,7 @@
     <string name="ftp_server_hint">Для подключения введите адрес сервера в адресной строке окна или используйте любой FTP клиент.</string>
     <string name="You_cannot_share_root_directory">Вы не можете отправить корневой каталог</string>
     <string name="File_sharing_stopped">Отправка остановлена</string>
-    <string name="None">Ничего</string>
+    <string name="None">Без фильтра</string>
     <string name="You_have_to_be_connected_to_the_LAN_network">Вы должны быть подключены к локальной сети</string>
     <string name="Active">Активный</string>
     <string name="Inactive">Неактивный</string>
