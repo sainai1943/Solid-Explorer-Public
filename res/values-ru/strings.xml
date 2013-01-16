@@ -425,7 +425,7 @@
     			2, 3, 4 pliki
     			5, 6, 7, 8, 9, 10, 11, 12 ... plików
     			but.. 22, 23 pliki
-    			and 26, 27 plików
+    			f 26, 27 plików
     			Complicated, huh?
     			The pattern for polish is following: {0:ów|1:|2-4:i|1_:ów|_2-4:i|__:ów}
     			
@@ -732,12 +732,12 @@
 	
 	<!-- Now multiple patterns are supported so you can correct previous patterns
 	if more than one noun in a sentence is affected -->
-    	<string name="X_folders_and_Y_files_deleted">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} удалено.</string>
-    	<string name="X_folders_and_Y_files_copied">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} скопировано.</string>
-    	<string name="X_folders_and_Y_files_moved">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} and %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} перемещено.</string>
-    	<string name="Deleting_X_folders_and_Y_files">Удаление %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
-    	<string name="Copying_X_folders_and_Y_files">Копирование %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
-    	<string name="Moving_X_folders_and_Y_files">Перемещение %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} and %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
+    	<string name="X_folders_and_Y_files_deleted">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} и %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} удалено.</string>
+    	<string name="X_folders_and_Y_files_copied">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} и %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} скопировано.</string>
+    	<string name="X_folders_and_Y_files_moved">%x пап{0:ок|1:ка|2-4:ки|_2-4:ок|__:ок} и %y файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} перемещено.</string>
+    	<string name="Deleting_X_folders_and_Y_files">Удаление %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} и %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
+    	<string name="Copying_X_folders_and_Y_files">Копирование %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} и %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
+    	<string name="Moving_X_folders_and_Y_files">Перемещение %x пап{1:ки|2-4:ок|_2-4:ок|__:ок} и %y файл{1:а|2-4:ов|_2-4:ов|__:ов}</string>
     	
     	<string name="X_folders_moved">% пап{1:ка|2-4:ки|_2-4:ок|__:ок} перемещено.</string>
     	<string name="Moving_X_folders">Перемещение % пап{1:ки|2-4:ок|_2-4:ок|__:ок}</string>
