@@ -2,7 +2,7 @@
 <resources>
     <string name="Directory_does_not_exists">Директория не существует</string>
     
-    <string name="Unable_to_read_the_file">Невозможно прочитать файл</string>
+    <string name="Unable_to_read_the_file">Не удалось прочитать файл</string>
     <string name="Illegal_operation">Недопустимая операция</string>
     
     
@@ -11,7 +11,7 @@
     
     <string name="Invalid_password_for_user_x">Неверный пароль пользователя \&quot;%\&quot;</string>
     <string name="Invalid_master_password">Неверный мастер-пароль</string>
-    <string name="Unable_to_execute_shell_command">Невозможно выполнить команду оболочки</string>
+    <string name="Unable_to_execute_shell_command">Не удалось выполнить команду оболочки</string>
     <string name="No_root_access_available">Нет root-доступа</string>
     <string name="Unable_to_read_root_directory">Нет доступа в корневую директорию</string>
     
@@ -20,7 +20,7 @@
     
     
     <string name="Cannot_browse_to_x">Обзор невозможен \&quot;%\&quot;. Неизвестная ошибка.</string>
-    <string name="Cannot_write_to_the_system">Невозможно записать в файловой системе. Установка прав чтения/записи не удалась.</string>
+    <string name="Cannot_write_to_the_system">Запись в ФС запрещена. Установка прав чтения/записи не удалась.</string>
     <string name="Requested_file_x_has_not_been_found">Запрошенный файл \&quot;%\&quot; не найден.</string>
     <string name="Unknown_read_write_exception">Неизвестное исключение чтения/записи.</string>
     <string name="Invalid_url_x">Неверный URL: %</string>
@@ -28,7 +28,7 @@
     <string name="Operation_not_allowed">Операция недопустима</string>
     <string name="Cannot_connect_to_host_x_on_port_y">Не удается подключиться к \&quot;%x\&quot; порту %y.</string>
     <string name="Unable_to_resolve_host_x">Имя хоста не определено \&quot;%x\&quot;.</string>
-    <string name="Server_returned_illegal_response">Сервер вернул нелегальный ответ</string>
+    <string name="Server_returned_illegal_response">Сервер вернул недопустимый ответ</string>
     <string name="An_error_occured_while_transferring_data_from_the_server">Произошла ошибка при передаче данных с сервера</string>
     <string name="Invalid_username_or_password">Неверное имя пользователя или пароль</string>
     <string name="Internal_server_error">Внутренняя ошибка сервера.</string>
