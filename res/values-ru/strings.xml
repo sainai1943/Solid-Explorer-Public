@@ -179,7 +179,7 @@
     <string name="Edit">Изменить</string>
     <string name="Disconnect">Разъеденить</string>
     <string name="Delete_all">Удалить всё</string>
-    <string name="Wifi_toggle">Переключить WiFi</string>
+    <string name="Wifi_toggle">Вкл/выкл WiFi</string>
     <string name="Wifi_settings">Настройки Wi-Fi</string>
     <string name="Disconnect_all">Разъеденить всё</string>
     <string name="Connected">Соединено</string> 
