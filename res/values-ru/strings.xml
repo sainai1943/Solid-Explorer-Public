@@ -237,8 +237,8 @@
     <string name="Top_files">Топ % файлов</string>
     <string name="Location">Расположение</string>
     <string name="Type">Тип</string>
-    <string name="Parent_path">Исходный путь</string>
-    <string name="Last_modified">Последние изменения</string>
+    <string name="Parent_path">Расположение</string>
+    <string name="Last_modified">Дата изменения</string>
     <string name="Directory">Директория</string>
     <string name="Unknown">Неизвестно</string>
     <string name="Symbolic_link">Симлинк</string>
@@ -248,12 +248,12 @@
     <string name="MD5">MD5</string>
     <string name="Calculate">Вычислить</string>
     <string name="Compare">Сравнить</string>
-    <string name="Paste_to_compare">Вставить для сравнения</string>
+    <string name="Paste_to_compare">Вставьте для сравнения</string>
     <string name="Files">Файлы</string>
     <string name="Folders">Папки</string>
     <string name="Calculation_error">Ошибка вычисления</string>
     <string name="Content">Содержание</string>
-    <string name="Other_used">Другое/Ещё.</string>
+    <string name="Other_used">Другое.</string>
     <string name="Free_space">Свободно</string>
     <string name="Usage">Занято</string>
     <string name="Attributes">Атрибуты</string>
