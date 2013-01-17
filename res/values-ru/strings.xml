@@ -340,7 +340,7 @@
     	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Вы уверены, что хотите удалить ассоциации типов файлов?</string>
     	<string name="Changes_have_been_made_to_the_file">Были внесены изменения в &quot;%&quot;. Сохранить?</string>
     	<string name="Chown_confirm">Вы уверены, что хотите изменить владельца этого файла?</string>
-    	<string name="Busybox_request">Возможно BusyBox не установлен в вашей системе. Для правильной работы с корневым каталогом, необходимо его установить. Хотите установить его сейчас?</string>
+    	<string name="Busybox_request">Возможно, BusyBox не установлен в вашей системе. Для правильной работы с корневым каталогом, необходимо его установить. Хотите установить его сейчас?</string>
     	
     	
     	<!-- Information dialogs -->
@@ -391,15 +391,15 @@
     	<string name="File_named_already_exists">Файл с именем \&quot;%\&quot; уже существует</string>
     	<string name="Confirm_delete">Подтвердите удаление</string>
     	<string name="You_cant_create_an_archive_here">Вы не можете создать архив здесь</string>
-    	<string name="Cannot_connect_to">Не удаёться подключиться к \&quot;%\&quot;</string>
+    	<string name="Cannot_connect_to">Не удаётся подключиться к \&quot;%\&quot;</string>
     	<string name="You_are_not_logged_in">Вы не авторизованы</string>
-		<string name="Can_not_create_the_directory">Не удаёться создать каталог</string>
+		<string name="Can_not_create_the_directory">Не удаётся создать каталог</string>
 
-    	<string name="Can_not_create_the_file">Не удаёться создать файл</string>
+    	<string name="Can_not_create_the_file">Не удаётся создать файл</string>
     	<string name="Uknown_file_type">Неизвестный тип файла</string>
     	<string name="No_activity_found_to_open_this_file">Не найдено приложений для открытия этого файла</string>
     	<string name="You_cant_send_a_folder">Нельзя отправить папку</string>
-    	<string name="Indexing_has_been_unscheduled">Индексация была перенесена</string>
+    	<string name="Indexing_has_been_unscheduled">Индексация была отложена</string>
     	<string name="Scheduled_indexing">Запланированная индексация</string>
     	<string name="Tap_to_start">Нажмите, чтобы начать</string>
     	
@@ -458,10 +458,10 @@
     
     <!-- Open as dialog -->
     <string name="Open_as">Открыть как...</string>
-    <string name="Choose_a_preferred_type">Выберите предпочитаемый тип</string>
+    <string name="Choose_a_preferred_type">Выберите нужный тип</string>
     <string name="Text_file">Текстовый файл</string>
     <string name="Image_file">Файл изображения</string>
-    <string name="Music_file">Музыкальный файл</string>
+    <string name="Music_file">Файл аудио</string>
     <string name="Video_file">Видео файл</string>
     <string name="ZIP_archive">ZIP-архив</string>
     
@@ -474,11 +474,11 @@
 
     
 	<!-- Text editor -->
-    <string name="Wrap_lines">Перенос сторк</string>
+    <string name="Wrap_lines">Перенос строк</string>
     <string name="Font_size">Размер шрифта</string>
     <string name="Font">Шрифт</string>
-    <string name="App_default">Приложение по умолчанию</string>
-    <string name="System_default">Системное по умолчанию</string>
+    <string name="App_default">Из приложения</string>
+    <string name="System_default">Из системы</string>
     <string name="Serif">Serif</string>
     <string name="Monospace">Monospace</string>
     <string name="File_saved_successfully">Файл успешно сохранен</string>
