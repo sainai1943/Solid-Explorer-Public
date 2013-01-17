@@ -530,7 +530,7 @@
     <string name="Extra_small">Мелкий</string>
     
     <string name="Hide_exit_button">Скрыть кнопку выхода</string>
-    <string name="Hide_exit_button_summary">Включится возможность выхода, через долгое нажатие клавиши Назад</string>
+    <string name="Hide_exit_button_summary">Включится возможность выхода, по долгому нажатию клавиши Назад</string>
     
     <string name="Startup">Запуск</string>
     
