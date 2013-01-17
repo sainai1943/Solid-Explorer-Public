@@ -314,7 +314,7 @@
     	<string name="Choose_an_activity_to_open_the_file">Выбрать действие для открытия</string>
     	<string name="Always_use_this_application">Всегда использовать это приложение</string>
     	<string name="Send_the_file_using">Отправить файл с помощью</string>
-    	<string name="Progress">Выполняется</string>
+    	<string name="Progress">Выполнение</string>
     	<string name="Minimize">Свернуть</string>
     	<string name="Pause">Пауза</string>
     	<string name="Resume">Возврат</string>
