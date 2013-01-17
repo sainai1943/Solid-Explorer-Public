@@ -203,7 +203,7 @@
     
     <!-- File sharing -->
     <string name="File_sharing_active">Передача файла</string>
-    <string name="ftp_server_hint">Для подключения введите адрес сервера в адресной строке окна или используйте любой FTP клиент.</string>
+    <string name="ftp_server_hint">Для подключения введите адрес сервера в адресной строке проводника Windows или используйте любой FTP клиент.</string>
     <string name="You_cannot_share_root_directory">Вы не можете отправить корневой каталог</string>
     <string name="File_sharing_stopped">Отправка остановлена</string>
     <string name="None">Без фильтра</string>
