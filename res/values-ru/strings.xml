@@ -153,13 +153,13 @@
     
     	<!-- Operation info -->
     	<string name="Operation">Операция</string>
-    	<string name="From">От</string>
-    	<string name="To">К</string>
+    	<string name="From">Из</string>
+    	<string name="To">В</string>
     	<string name="Size">Размер</string>
     	<string name="Speed">Скорость</string>
     	<string name="ETA">ETA</string>
     	<string name="NA">Н/Д</string>
-    	<string name="Current">Текущее</string>
+    	<string name="Current">Текущая</string>
     	
     	<!-- Operation descriptions -->
     	<string name="File_copy">Копирование</string>
