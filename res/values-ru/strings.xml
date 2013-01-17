@@ -104,7 +104,7 @@
 	    
 	    <!-- New connection Dialog -->
 	    <string name="Display_name">Отображать имя</string>
-	    <string name="May_be_empty">Возможно пустой</string>
+	    <string name="May_be_empty">Может быть пустым</string>
     	<string name="Remote_path">Удаленный путь</string>
     	<string name="Port">Порт</string>
     	<string name="User_name">Имя пользователя</string>
