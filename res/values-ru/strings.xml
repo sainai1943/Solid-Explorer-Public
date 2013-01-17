@@ -748,8 +748,8 @@
     	<string name="Show_status_summary">Показать информацию о файлах в директории и использованном пространстве в окне проводника</string>
     	<string name="Show_status">Показывать статус</string>
     	<string name="Mount_rw">Монтировать в r/w</string>
-    	<string name="System_mounted_as_read_write">Система смонтированна в чтение/запись</string>
-    	<string name="System_mounted_as_read_only">Система смонтированна только в чтение</string>
+    	<string name="System_mounted_as_read_write">Смонтировано в чтение/запись</string>
+    	<string name="System_mounted_as_read_only">Смонтировано только в чтение</string>
     	
     <!--  v 1.3.9 -->
     	<string name="Device_labels">Метки устройства</string>
