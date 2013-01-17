@@ -311,7 +311,7 @@
     	<string name="Replace_the_file_with_this">Файл будет заменён</string>
     	<string name="Create_master_password">Создание мастер-пароля</string>
     	
-    	<string name="Choose_an_activity_to_open_the_file">Выбрать действие для открытия файла</string>
+    	<string name="Choose_an_activity_to_open_the_file">Выбрать действие для открытия</string>
     	<string name="Always_use_this_application">Всегда использовать это приложение</string>
     	<string name="Send_the_file_using">Отправить файл с помощью</string>
     	<string name="Progress">Выполняется</string>
