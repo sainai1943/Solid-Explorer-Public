@@ -177,7 +177,7 @@
     <!-- Bookmark manager -->
     <string name="Bookmark_manager">Управление закладками</string>
     <string name="Edit">Изменить</string>
-    <string name="Disconnect">Разъеденить</string>
+    <string name="Disconnect">Разъединить</string>
     <string name="Delete_all">Удалить всё</string>
     <string name="Wifi_toggle">Вкл/выкл WiFi</string>
     <string name="Wifi_settings">Настройки Wi-Fi</string>
