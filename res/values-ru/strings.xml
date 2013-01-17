@@ -12,8 +12,8 @@
     <string name="Actions">Действия</string>
     
     <!-- "New" popup -->
-    <string name="New_folder">Папка</string>
-    <string name="New_file">Файл</string>
+    <string name="New_folder">Новую Папку</string>
+    <string name="New_file">Новый Файл</string>
     <string name="New_FTP_connection">FTP соединение</string>
     <string name="New_SFTP_connection">SFTP соединение</string>
     <string name="New_SMB_connection">SMB соединение</string>
