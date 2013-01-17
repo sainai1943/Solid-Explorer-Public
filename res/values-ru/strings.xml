@@ -324,22 +324,22 @@
     	<string name="There_is_already_an_operation_running">Уже запущена одна операция. Дождитесь ее завершения.</string>
     
     	<!-- Question dialogs -->
-    	<string name="Are_you_sure_you_want_to_clear_the_history">Вы уверены, что хотите очистить историю?</string>
-    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Вы уверены, что хотите очистить кэш миниатюр?</string>
-    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Вы уверены, что хотите удалить временные файлы?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_history">Точно хотите очистить историю?</string>
+    	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Точно очистить кэш миниатюр?</string>
+    	<string name="Are_you_sure_you_want_to_delete_temporary_files">Точно удалить временные файлы?</string>
     	<string name="It_is_time_for_sheduled_indexing">Запуск запланированной индексации. Хотите выполнить её сейчас?</string>
     	<string name="Folder_exists_descr">В этой директории уже существует такая папка. Выберите действие.</string>
     	<string name="File_exists_descr">В этой директории уже существует такой файл. Выберите действие.</string>
-    	<string name="Are_you_sure_you_want_to_delete">Вы действительно хотите удалить \&quot;%\&quot;?</string>
-    	<string name="Are_you_sure_to_abort_current_operation">Вы действительно хотите прервать текущую операцию?</string>
-    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Вы уверены, что хотите удалить все закладки?</string>
-    	<string name="Are_you_sure_you_want_to_delete_bookmark">Вы действительно хотите удалить закладку \&quot;%\&quot; ?</string>
+    	<string name="Are_you_sure_you_want_to_delete">Точно удалить \&quot;%\&quot;?</string>
+    	<string name="Are_you_sure_to_abort_current_operation">Точно хотите прервать текущую операцию?</string>
+    	<string name="Are_you_sure_you_want_to_delete_all_bookmarks">Точно удалить все закладки?</string>
+    	<string name="Are_you_sure_you_want_to_delete_bookmark">Точно удалить закладку \&quot;%\&quot; ?</string>
     	<string name="Reindex_prompt">Выполнение индексации. Это может занять несколько минут. Продолжить?</string>
-    	<string name="Clear_index_prompt">Вы уверены, что хотите удалить все данные индекса? Операция без отмены!</string>
-    	<string name="Are_you_sure_to_stop_indexing">Вы уверены, что хотите остановить индексацию?</string>
+    	<string name="Clear_index_prompt">Точно удалить все данные индекса? Операция без отмены!</string>
+    	<string name="Are_you_sure_to_stop_indexing">Точно остановить индексацию?</string>
     	<string name="Are_you_sure_you_want_to_clear_file_type_associations">Точно хотите удалить ассоциации типов файлов?</string>
-    	<string name="Changes_have_been_made_to_the_file">Были внесены изменения в &quot;%&quot;. Хотите их сохранить?</string>
-    	<string name="Chown_confirm">Вы уверены, что хотите изменить владельца этого файла?</string>
+    	<string name="Changes_have_been_made_to_the_file">Были внесены изменения в &quot;%&quot;. Сохранить?</string>
+    	<string name="Chown_confirm">Точно изменить владельца этого файла?</string>
     	<string name="Busybox_request">Возможно BusyBox не установлен в вашей системе. Для правильной работы с корневым каталогом, необходимо его установить. Хотите установить его сейчас?</string>
     	
     	
@@ -404,7 +404,7 @@
     	<string name="Tap_to_start">Нажмите, чтобы начать</string>
     	
     	
-    	<string name="Are_you_sure_you_want_to_delete_items">Вы уверены, что хотите удалить % элемент{0:ов|1:|2-4:а|_2-4:а|__:ов}?</string>
+    	<string name="Are_you_sure_you_want_to_delete_items">Точно хотите удалить % элемент{0:ов|1:|2-4:а|_2-4:а|__:ов}?</string>
     	<string name="X_files_deleted">% файл{0:ов|1:|2-4:а|_2-4:а|__:ов} удалено.</string>
     	<string name="X_files_copied">% файл{0:ов|1:|2-4:а|_2-4:а|__:ов} скопировано.</string>
     	<string name="X_files_moved">% файл{0:ов|1:|2-4:а|_2-4:а|__:ов} перемещено.</string>
@@ -707,8 +707,8 @@
     <string name="Please_wait">Пожалуйста, подождите</string>
     
     
-    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Вы уверены, что хотите скопировать во вторую панель?</string>
-	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Вы уверены, что хотите переместить во вторую панель?</string>
+    <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Точно скопировать во вторую панель?</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Точно хотите переместить во вторую панель?</string>
 	<string name="Image_not_loaded">Изображение не загружено</string>
 	<string name="Target_SDK">Уровень SDK</string>
 	<string name="Description">Описание</string>
