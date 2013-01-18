@@ -688,8 +688,8 @@
     <string name="Encoding">Кодировка</string>
     <string name="Network_thumbnails">Сетевой кэш миниатюр</string>
     <string name="Network_thumbnails_summary">Будет использован мобильный трафик или другое подключение.</string>
-    <string name="Copy_to">Копировать в</string>
-    <string name="Move_to">Переместить в</string>
+    <string name="Copy_to">Копировать</string>
+    <string name="Move_to">Переместить</string>
     <string name="Shortcut">Ярлык</string>
     <string name="Two_panels_in_landscape_summary">Показать сразу две панели в альбомной ориентации экрана</string>
     <string name="Two_panels_in_landscape">Две панели (альбомный режим)</string>
