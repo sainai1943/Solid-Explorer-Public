@@ -65,24 +65,24 @@
     <string name="Detailed_grid">Подробная сетка</string>
     
     <!-- "Sort" popup -->
-    <string name="Sort_files_by">Сортировка файлов</string>
+    <string name="Sort_files_by">Сортировать по</string>
     <string name="File_name">По имени</string>
     <string name="File_size">По размеру</string>
     <string name="File_type">По типу</string>
     <string name="Modified_date">По дате изменения</string>
     <string name="Ascending">По возрастанию</string>
     <string name="Descending">По убыванию</string>
-    <string name="In_order">Порядок сортировки</string>
+    <string name="In_order">По порядку</string>
     
     <!-- Browser switch popup -->
-    <string name="Active_browser">Часто просматриваемые</string>
-    <string name="Close_all">Закрыть всё</string>
+    <string name="Active_browser">Текущая</string>
+    <string name="Close_all">Закрыть все</string>
     <string name="In_background">В фоне</string>
     
     
     
     <!-- Context menu -->
-    <string name="Open_with">Открыть с помощью..</string>
+    <string name="Open_with">Открыть в</string>
     <string name="Open_in_bg">Открыть в фоне</string>
     <string name="Send">Отправить</string>
     <string name="Bookmark">Закладка</string>
@@ -103,20 +103,20 @@
 	    <string name="Enter_the_name">Введите имя</string>
 	    
 	    <!-- New connection Dialog -->
-	    <string name="Display_name">Отображать имя</string>
-	    <string name="May_be_empty">Может быть пустым</string>
+	    <string name="Display_name">Название</string>
+	    <string name="May_be_empty">Можно не задавать</string>
     	<string name="Remote_path">Удаленный путь</string>
     	<string name="Port">Порт</string>
     	<string name="User_name">Имя пользователя</string>
     	<string name="Password">Пароль</string>
-    	<string name="Repeat_the_password">Повторить пароль</string>
+    	<string name="Repeat_the_password">Повторите пароль</string>
     	<string name="Authentication_method">Метод аутентификации</string>
     	<string name="Server">Сервер</string>
     	<string name="Connection_type">Тип подключения</string>
-    	<string name="Scan">Сканировать</string>
+    	<string name="Scan">Найти</string>
     	<string name="Computer_name_or_IP_adress">Имя компьютера или IP-адрес</string>
     	<string name="Looking_for_computers">Обзор компьютеров</string>
-    	<string name="Share">Отправить</string>
+    	<string name="Share">Доступ</string>
     	
     		<!-- Auth methods -->
     		<string name="Ask_for_password_each_time">Спрашивать каждый раз</string>
@@ -132,14 +132,14 @@
         
     <!-- Search activity -->	
     <string name="Manual_search">Ручной поиск</string>
-    <string name="Results_from">Результат:</string>
+    <string name="Results_from">Результаты из</string>
     <string name="No_results">Нет результатов</string>
-    <string name="Matches">Совпадения</string>
-    <string name="Selected">Выбранные</string>
+    <string name="Matches">Совпадений</string>
+    <string name="Selected">Выбрано</string>
     <string name="Match_mode">Режим совпадений</string>
-    <string name="Match_start">По началу слова</string>
-    <string name="Match_any">Любое совпадение</string>
-    <string name="Match_end">С конца слова</string>
+    <string name="Match_start">По началу имени</string>
+    <string name="Match_any">Любые совпадения</string>
+    <string name="Match_end">По концу имени</string>
     
     <!-- Operations activity -->
     <string name="History_is_empty">История пуста</string>
