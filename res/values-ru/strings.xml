@@ -52,7 +52,7 @@
     <string name="Cloud_storage">Облачное хранилище</string>
     
     <!-- "Device" popup -->
-     <string name="System_root">Корень системы</string>
+    <string name="System_root">Корень системы</string>
     <string name="SD_card">SD-Карта</string>
     <string name="Internal_memory">Внутренняя память</string>
     <string name="USB_drive_x">USB Диск %x</string>
@@ -372,7 +372,7 @@
     	<string name="You_did_not_specify_a_port_number">Укажите номер порта</string>
     	<string name="You_did_not_specify_user_name">Укажите имя пользователя</string>
     	<string name="Indexing">Индексация</string>
-    	<string name="Indexing_in_progress">Индексирование</string>
+    	<string name="Indexing_in_progress">Индексация</string>
     	<string name="Indexing_paused">Индексация приостановлена</string>
     	<string name="Indexing_has_been_completed">Индексация завершена</string>
     	<string name="Indexing_has_been_aborted">Индексация была прервана</string>
@@ -524,7 +524,7 @@
     <string name="Adjust_size_of_the_file_list_in_landscape">Настроить размер списка файлов в альбомном режиме</string>
     
     <string name="Small">Маленький</string>
-    <string name="Normal">Нормальный</string>
+    <string name="Normal">Обычный</string>
     <string name="Big">Большой</string>
     <string name="Large">Огромный</string>
     <string name="Extra_small">Мелкий</string>
