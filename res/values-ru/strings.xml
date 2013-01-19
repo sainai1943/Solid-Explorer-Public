@@ -175,7 +175,7 @@
     	<string name="File_operation">Файловые операции</string>
     
     <!-- Bookmark manager -->
-    <string name="Bookmark_manager">Управление закладками</string>
+    <string name="Bookmark_manager">Закладки</string>
     <string name="Edit">Изменить</string>
     <string name="Disconnect">Разъединить</string>
     <string name="Delete_all">Удалить всё</string>
