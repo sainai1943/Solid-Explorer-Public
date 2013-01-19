@@ -206,7 +206,8 @@
     <string name="ftp_server_hint">Для подключения введите адрес сервера в адресной строке проводника Windows или используйте любой FTP клиент.</string>
     <string name="You_cannot_share_root_directory">Вы не можете отправить корневой каталог</string>
     <string name="File_sharing_stopped">Отправка остановлена</string>
-    <string name="None">Без</string>
+    <string name="None">Без фильтра</string>
+    <string name="None1">Без сжатия</string>
     <string name="You_have_to_be_connected_to_the_LAN_network">Вы должны быть подключены к локальной сети</string>
     <string name="Active">Активный</string>
     <string name="Inactive">Неактивный</string>
@@ -228,6 +229,7 @@
     <string name="Use_password_protection">Использовать защиту паролем</string>
     <string name="Fast">Быстрое</string>
     <string name="Normal">Обычное</string>
+    <string name="Normal1">Обычное</string>
     <string name="Good">Хорошее</string>
     <string name="Best">Максимум</string>
     
