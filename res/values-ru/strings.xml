@@ -231,7 +231,7 @@
     <string name="Normal">Обычное</string>
     <string name="Normal1">Обычное</string>
     <string name="Good">Хорошее</string>
-    <string name="Best">Максимум</string>
+    <string name="Best">Максимальное</string>
     
     <!-- File properties -->
     <string name="Content_summary">Содержание</string>
