@@ -105,7 +105,7 @@
 	    <!-- New connection Dialog -->
 	    <string name="Display_name">Название</string>
 	    <string name="May_be_empty">Можно не задавать</string>
-    	<string name="Remote_path">Удаленный путь</string>
+    	<string name="Remote_path">Удалённый путь</string>
     	<string name="Port">Порт</string>
     	<string name="User_name">Имя пользователя</string>
     	<string name="Password">Пароль</string>
