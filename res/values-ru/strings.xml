@@ -710,7 +710,7 @@
     
     
     <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Вы уверены, что хотите скопировать во вторую панель?</string>
-	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Вы уверены, что хотите хотите переместить во вторую панель?</string>
+	<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Вы уверены, что хотите переместить во вторую панель?</string>
 	<string name="Image_not_loaded">Изображение не загружено</string>
 	<string name="Target_SDK">Уровень SDK</string>
 	<string name="Description">Описание</string>
