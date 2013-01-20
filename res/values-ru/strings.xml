@@ -547,10 +547,10 @@
     <string name="Change_downloads_directory">Изменить каталог загрузок</string>
     
     <string name="Drag_and_drop">Перетаскивание</string>
-    <string name="Action_for_drop_inside_the_panel">Отпустить внутри панели</string>
-    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетаскивание элемента в папку этой панели</string>
-    <string name="Action_for_drop_to_the_second_panel">Перетаскивание элемента в другую панель</string>
-    <string name="Dropping_an_item_to_the_second_panel">Перетаскивание во вторую панель</string>
+    <string name="Action_for_drop_inside_the_panel">Первая панель</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Перетаскивание элемента в папку текущей панели и отпустить</string>
+    <string name="Action_for_drop_to_the_second_panel">Вторая панель</string>
+    <string name="Dropping_an_item_to_the_second_panel">Перетаскивание элемента в другую панель и отпустить</string>
     <string name="Move">Переместить</string>
     
     <string name="Security">Безопасность</string>
