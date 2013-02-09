@@ -610,7 +610,6 @@
     <string name="Other">Другое</string>
     	
     <string name="Clear_persistent_data">Очистка постоянных даных</string>
-    <string name="Clear_persistent_data_summary">Удаление данных, с кратким содержанием.(кэш миниатюр, история операций, временные и т.д.)</string>
     <string name="Clear_thumbnail_cache">Очистить кэш миниатюр</string>
     <string name="Clear_temporary_files">Очистить временные файлы</string>
     <string name="Clear_operation_history">Очистить историю операций</string>
