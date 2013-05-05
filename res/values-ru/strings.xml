@@ -829,7 +829,7 @@
     <string name="There_is_already_the_same_file_in_temporary_directory">Файл уже существует во временном каталоге. Хотите открыть файл из кэша или скачать новый?</string>
     <string name="Download">Загрузка</string>
     <string name="X_files_updated">% файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} обновленно</string>
-    <string name="Temporary_file_has_been_modified">Временный файл % был изменён. Хотите загрузить его обратно??</string>
+    <string name="Temporary_file_has_been_modified">Временный файл % был изменён. Хотите загрузить его обратно?</string>
     <string name="Temporary_files_have_been_modified">% временных файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} было изменено. Хотите их загрузить?</string>
     <string name="Slide_from_bottom">Показ снизу</string>
     <string name="Fall_down">Падение</string>
