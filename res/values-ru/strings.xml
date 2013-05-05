@@ -833,7 +833,7 @@
     <string name="Temporary_files_have_been_modified">% временных файл{0:ов|1:|2-4:а|_2-4:ов|__:ов} было изменено. Хотите их загрузить?</string>
     <string name="Slide_from_bottom">Показ снизу</string>
     <string name="Fall_down">Падение</string>
-    <string name="Come_in">Войдите</string>
+    <string name="Come_in">Вхождение</string>
     <string name="Slide_from_right">Показ справа</string>
     <string name="Slide_from_left">Показ слева</string>
     <string name="Default">По умолчанию</string>
