@@ -846,7 +846,7 @@
     <!-- v 1.4.5 -->
     <string name="Domain">Домен</string>
     <string name="Mode">Режим</string>
-    <string name="Passive">Пасивный</string>
+    <string name="Passive">Паcсивный</string>
     <string name="Nomedia_on">.nomedia файл создан</string>
     <string name="Nomedia_off">.nomedia файл удалён</string>
     <string name="Wifi_disabled">WiFi выключен</string>
